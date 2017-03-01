@@ -7,3 +7,7 @@
 ## Program to interfaces, not implementations
 
 ## Favor composition over inheritance
+
+## Strive for loosely coupled designs between objects that interact
+
+* Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects.
