@@ -4,6 +4,12 @@
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+## Keyboard shortcuts
+
+- [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+- [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
 ## Useful plugins
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
