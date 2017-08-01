@@ -1,2 +1,23 @@
 # notes
 A place to store information I want to look at later.
+
+## Dev Setup
+
+- [Visual Studio Code](dev_setup/vscode.md)
+
+## Design
+
+- [Design Patterns](design/design%20patterns.md)
+- [Design Principles](design/design%20principles.md)
+- [OO Basics](design/oo%20basics.md)
+
+## SQL
+
+- [Idempotent](sql/idempotent.md)
+- [JDBC](sql/JDBC.md)
+- [Joins](sql/joins.md)
+- [xquery](sql/xquery.md)
+
+## Other
+
+- [Markdown](markdown.md)
