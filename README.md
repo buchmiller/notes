@@ -3,6 +3,7 @@ A place to store information I want to look at later.
 
 ## Dev Setup
 
+- [Bash on Ubuntu on Windows](dev_setup/win10bash.md)
 - [Visual Studio Code](dev_setup/vscode.md)
 
 ## Design
