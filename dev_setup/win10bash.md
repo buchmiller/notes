@@ -39,14 +39,13 @@ function path_remove {
   PATH=${PATH/%":$1"/} # delete any instance at the end
 }
  
-#path_remove '/mnt/c/Users/sbuchmiller/AppData/Roaming/npm'
+#path_remove '/mnt/c/Users/me/AppData/Roaming/npm'
 #path_remove '/mnt/c/Program Files/Git'
 #path_remove '/mnt/c/Program Files/Git/cmd'
 path_remove '/mnt/c/Program Files (x86)/nodejs'
 #path_remove '/mnt/c/OpenSSL-Win32/bin'
 path_remove '/mnt/c/Python27'
 path_remove '/mnt/c/Python27/Scripts'
-path_remove '/mnt/c/ProgramData/Oracle/Java/javapath_target_604445734'
 path_remove '/mnt/c/Program Files/MongoDB/Server/3.2/bin'
 path_remove '/mnt/c/Program Files/Apache Software Foundation/apache-maven-3.3.3/bin'
 ```
@@ -67,9 +66,8 @@ Create a file called .bash_aliases in the same folder as .bashrc
 Add all aliases to this file, like so:
 
 ```bash
-alias winhome='cd /mnt/c/Users/sbuchmiller'
+alias winhome='cd /mnt/c/Users/me'
 alias dev='cd /mnt/c/dev'
-alias amhome='cd /mnt/c/code/projects/asset-manager-tools/'
 ```
 
 Consider adding programs to the Windows path (which should automatically be included in the linux path too) before creating an alias for a program.
