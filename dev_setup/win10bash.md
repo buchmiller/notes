@@ -79,3 +79,5 @@ Follow the installation steps for nvm ([install steps](https://github.com/creati
 Close the bash terminal and open it again. Type `command -v nvm` and it should print `nvm` ([verify installation](https://github.com/creationix/nvm#verify-installation))
 
 Use nvm to install node ([nvm usage](https://github.com/creationix/nvm#usage))
+
+If this causes the shell to take several seconds to open, please update the nvm portion of `.bashrc` as suggested in the latest comments here [https://github.com/creationix/nvm/issues/1277](https://github.com/creationix/nvm/issues/1277).
