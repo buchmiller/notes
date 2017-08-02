@@ -54,10 +54,10 @@ path_remove '/mnt/c/Program Files/Apache Software Foundation/apache-maven-3.3.3/
 
 To see which paths actually need to be removed:
 
-1. Comment out all the calls to path_remove
-1. Execute ". .bashrc" to apply any changes to .bashrc
-1. Execute "echo $PATH" to see the current state of the linux path
-1. Update the calls to path_remove to specify paths to be removed (each one must be specified - children of that path are not included)
+1. Comment out all the calls to `path_remove`
+1. Execute `. .bashrc` to apply any changes to `.bashrc`
+1. Execute `echo $PATH` to see the current state of the linux path
+1. Update the calls to `path_remove` to specify paths to be removed (each one must be specified - children of that path are not included)
 
 ## Add aliases
 
@@ -76,6 +76,6 @@ Consider adding programs to the Windows path (which should automatically be incl
 
 Follow the installation steps for nvm ([install steps](https://github.com/creationix/nvm#install-script))
 
-Close the bash terminal and open it again. Type "command -v nvm" and it should print "nvm" ([verify installation](https://github.com/creationix/nvm#verify-installation))
+Close the bash terminal and open it again. Type `command -v nvm` and it should print `nvm` ([verify installation](https://github.com/creationix/nvm#verify-installation))
 
 Use nvm to install node ([nvm usage](https://github.com/creationix/nvm#usage))
