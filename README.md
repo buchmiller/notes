@@ -6,6 +6,10 @@ A place to store information I want to look at later.
 - [Bash on Ubuntu on Windows](dev_setup/win10bash.md)
 - [Visual Studio Code](dev_setup/vscode.md)
 
+## Project Setup
+
+- [Angular 2 with Firebase](project_setup/angularfire2.md)
+
 ## Design
 
 - [Design Patterns](design/design%20patterns.md)
