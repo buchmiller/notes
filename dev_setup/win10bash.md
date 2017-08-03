@@ -15,6 +15,12 @@ To enable bash:
 1. Enable Windows Subsystem for Linux (Beta)
 1. Open the command prompt and type `bash` to install the linux subsystem
 
+## Using bash
+
+> [Do not change Linux files using Windows apps and tools](https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/)
+> 1. DO store files in your Windows filesystem that you want to create/modify using Windows tools AND Linux tools
+> 1. DO NOT create / modify Linux files from Windows apps, tools, scripts or consoles
+
 ## Java setup
 
 Do not use the default-jre and default-jdk packages, as those use the OpenJDK/JRE vendor. We want to use the Oracle vendor.
