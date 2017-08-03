@@ -80,8 +80,20 @@ Consider adding programs to the Windows path (which should automatically be incl
 
 ## Node
 
+### install with nvm
+
 Follow the installation steps for nvm ([install steps](https://github.com/creationix/nvm#install-script))
 
 Close the bash terminal and open it again. Type `command -v nvm` and it should print `nvm` ([verify installation](https://github.com/creationix/nvm#verify-installation))
 
 Use nvm to install node ([nvm usage](https://github.com/creationix/nvm#usage))
+
+If this causes the shell to take several seconds to open, please update the nvm portion of `.bashrc` as suggested in the latest comments here [https://github.com/creationix/nvm/issues/1277](https://github.com/creationix/nvm/issues/1277).
+
+### install directly
+
+nvm seems to have slowness issues right now, so this might be a more favorable approach. The downside is that you will have to do updates by following these steps again.
+
+[Install node on Ubuntu](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
+
+[Update node](https://aigeec.com/upgrading-your-version-of-nodejs-on-windows-10-bash/)
