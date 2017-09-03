@@ -13,6 +13,7 @@
 ## Useful plugins
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
