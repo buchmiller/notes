@@ -12,7 +12,9 @@
 
 ## Useful plugins
 
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   - [Chrome debugging with Angular CLI](https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI)
 - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
