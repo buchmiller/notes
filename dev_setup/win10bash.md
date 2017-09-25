@@ -72,6 +72,7 @@ Create a file called .bash_aliases in the same folder as .bashrc
 Add all aliases to this file, like so:
 
 ```bash
+alias cmd='/mnt/c/Windows/System32/cmd.exe'
 alias winhome='cd /mnt/c/Users/me'
 alias dev='cd /mnt/c/dev'
 ```
