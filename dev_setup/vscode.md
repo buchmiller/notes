@@ -36,3 +36,35 @@
 The first time you open the terminal with ``Ctrl+` `` it will ask if you want to change the terminal type. Choose "Customize", then select WSL Bash or whichever you want.
 
 If this prompt does not appear, type `Ctrl+Shift+P` and start typing "select default shell". Press enter and select your desired shell type.
+
+## Useful Settings
+
+### User Settings
+
+Type `Ctrl+Shift+P` and open User Settings. Here are some of mine:
+
+```json
+{
+  "files.autoSave": "off",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+  "git.enableSmartCommit": true,
+  "editor.quickSuggestions": {
+    "strings": true // Enables autocomplete in strings
+  },
+  "files.associations": {
+    "*.styl": "css"
+  },
+  "window.title": "${rootName}${separator}${activeEditorShort} ${dirty}"
+}
+```
+
+### Workspace Settings
+
+Type `Ctrl+Shift+P` and open Workspace Settings. Here are some of mine:
+
+```json
+{
+  // give window title more meaningful name than "trunk" or "src"
+  "window.title": "CUSTOM_PROJECT_NAME — ${separator}${activeEditorShort} ${dirty}"
+}
+```
