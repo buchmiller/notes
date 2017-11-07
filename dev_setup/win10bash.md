@@ -73,6 +73,7 @@ Add all aliases to this file, like so:
 
 ```bash
 alias cmd='/mnt/c/Windows/System32/cmd.exe'
+alias ccmd='cmd /C "start cmd /K $@"' # Executes any command in a new cmd window
 alias winhome='cd /mnt/c/Users/me'
 alias dev='cd /mnt/c/dev'
 ```
