@@ -1,5 +1,10 @@
 # notes
+
 A place to store information I want to look at later.
+
+## Dev
+
+- [Typescript](dev/typescript.md)
 
 ## Dev Setup
 
