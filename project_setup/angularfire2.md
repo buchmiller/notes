@@ -10,3 +10,7 @@
     - It's probably better to create a service to communicate with firebase instead of using the primary app module.
 
 1. To host on firebase: [Deploy Your Site](https://firebase.google.com/docs/hosting/deploying)
+
+## Updates
+
+[Angular 5 with Cloud Firestore](https://blog.cloudboost.io/angular-5-with-firebases-cloud-firestore-87b5d6c13ff)
