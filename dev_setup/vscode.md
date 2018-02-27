@@ -12,6 +12,9 @@
 
 ## Useful plugins
 
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+- [Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 - [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
   - `Ctrl+K Ctrl+S` to open keyboard shortcuts. Change these three hotkeys to the following:
     | | |
@@ -22,14 +25,14 @@
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   - [Chrome debugging with Angular CLI](https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+- [SVN](https://marketplace.visualstudio.com/items?itemName=johnstoncode.svn-scm)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 
 ## Change shell type
 
@@ -46,7 +49,7 @@ Type `Ctrl+Shift+P` and open User Settings. Here are some of mine:
 ```json
 {
   "files.autoSave": "off",
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
   "git.enableSmartCommit": true,
   "editor.quickSuggestions": {
     "strings": true // Enables autocomplete in strings
@@ -54,13 +57,22 @@ Type `Ctrl+Shift+P` and open User Settings. Here are some of mine:
   "files.associations": {
     "*.styl": "css"
   },
-  "window.title": "${rootName}${separator}${activeEditorShort} ${dirty}"
+  "window.title": "${rootName}${separator}${activeEditorShort} ${dirty}",
+  "files.exclude": {
+    "**/nbproject": true,
+    "**/.idea": true,
+    // "**/node_modules": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/.vscode": true
+    },
+    "editor.renderWhitespace": "all"
 }
 ```
 
 ### Workspace Settings
 
-Type `Ctrl+Shift+P` and open Workspace Settings. Here are some of mine:
+Type `Ctrl+Shift+P` and open Workspace Settings. Here is a potential one:
 
 ```json
 {
