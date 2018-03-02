@@ -17,6 +17,7 @@
 - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 - [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
   - `Ctrl+K Ctrl+S` to open keyboard shortcuts. Change these three hotkeys to the following:
+  
     | | |
     | --- | --- |
     | Colonize and Hold Position | `Ctrl+;` |
