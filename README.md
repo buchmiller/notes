@@ -17,9 +17,9 @@ A place to store information I want to look at later.
 
 ## Design
 
-- [Design Patterns](design/design%20patterns.md)
-- [Design Principles](design/design%20principles.md)
-- [OO Basics](design/oo%20basics.md)
+- [Design Patterns](design/design_patterns.md)
+- [Design Principles](design/design_principles.md)
+- [OO Basics](design/oo_basics.md)
 
 ## SQL
 
