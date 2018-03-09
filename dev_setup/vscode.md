@@ -67,6 +67,7 @@ Type `Ctrl+Shift+P` and open User Settings. Here are some of mine:
     "**/dist": true,
     "**/.vscode": true
     },
+    "extensions.showRecommendationsOnlyOnDemand": true,
     "editor.renderWhitespace": "all"
 }
 ```
