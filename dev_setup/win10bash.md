@@ -2,6 +2,8 @@
 
 ## Getting bash
 
+This section may not be up to date with the latest versions of Windows. Please see [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
 This is available in Windows 10 as of the Anniversary Update.
 
 > Press `WinKey+R`, type `winver` and press ENTER  
