@@ -4,12 +4,14 @@ A place to store information I want to look at later.
 
 ## Dev
 
+- [Java](dev/java.md)
 - [Typescript](dev/typescript.md)
 
 ## Dev Setup
 
 - [Bash on Ubuntu on Windows](dev_setup/win10bash.md)
 - [Visual Studio Code](dev_setup/vscode.md)
+- [npm](dev_setup/npm.md)
 
 ## Project Setup
 
