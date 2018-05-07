@@ -66,9 +66,10 @@ Type `Ctrl+Shift+P` and open User Settings. Here are some of mine:
     "**/build": true,
     "**/dist": true,
     "**/.vscode": true
-    },
-    "extensions.showRecommendationsOnlyOnDemand": true,
-    "editor.renderWhitespace": "all"
+  },
+  "npm.enableScriptExplorer": true,
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "editor.renderWhitespace": "all"
 }
 ```
 
