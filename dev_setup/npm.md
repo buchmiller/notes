@@ -22,5 +22,5 @@ The output will look something like this:
 Run the same command used to install it:
 
 ```bash
-npm install -g @angular/cli`
+npm install -g @angular/cli
 ```
