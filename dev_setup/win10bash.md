@@ -97,6 +97,8 @@ If this causes the shell to take several seconds to open, please update the nvm 
 
 nvm seems to have slowness issues right now, so this might be a more favorable approach. The downside is that you will have to do updates by following these steps again.
 
+[Install node on Ubuntu 18.04 using apt](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
+
 [Install node on Ubuntu](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 
 [Update node](https://aigeec.com/upgrading-your-version-of-nodejs-on-windows-10-bash/)
