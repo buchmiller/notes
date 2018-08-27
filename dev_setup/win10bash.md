@@ -65,6 +65,7 @@ To see which paths actually need to be removed:
 1. Comment out all the calls to `path_remove`
 1. Execute `. .bashrc` to apply any changes to `.bashrc`
 1. Execute `echo $PATH` to see the current state of the linux path
+    - Execute `echo "$PATH" | tr ':' '\n' | sort` to put each item on its own line and sort
 1. Update the calls to `path_remove` to specify paths to be removed (each one must be specified - children of that path are not included)
 
 ## Add aliases
