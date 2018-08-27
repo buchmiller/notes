@@ -27,9 +27,7 @@ To enable bash:
 
 Do not use the default-jre and default-jdk packages, as those use the OpenJDK/JRE vendor. We want to use the Oracle vendor.
 
-See [http://www.wikihow.com/Install-Oracle-Java-JDK-on-Ubuntu-Linux](http://www.wikihow.com/Install-Oracle-Java-JDK-on-Ubuntu-Linux)
-
-Or [https://stackoverflow.com/questions/36478741/installing-oracle-jdk-on-windows-subsystem-for-linux](https://stackoverflow.com/questions/36478741/installing-oracle-jdk-on-windows-subsystem-for-linux)
+See [https://stackoverflow.com/a/45608467/3033899](https://stackoverflow.com/a/45608467/3033899)
 
 ## Fix path
 
