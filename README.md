@@ -23,6 +23,10 @@ A place to store information I want to look at later.
 - [Design Principles](design/design_principles.md)
 - [OO Basics](design/oo_basics.md)
 
+## Reading Notes
+
+- [The Pragmatic Programmer](reading_notes/pragmatic_programmer.md)
+
 ## SQL
 
 - [Idempotent](sql/idempotent.md)
