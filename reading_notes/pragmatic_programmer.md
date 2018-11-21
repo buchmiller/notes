@@ -12,3 +12,9 @@ Being a pragmatic programmer is about your attitude and how you approach various
 - Users should be involved in deciding what functionality is good enough. Share the trade-offs with them - the project can be done sooner if some errors are acceptable.
 - Constantly build up and invest in your learning. The industry can change quickly, and our knowledge needs to stay relevant.
 - Understand the audience when choosing when and how to communicate something with them.
+
+## Chapter 2 - A Pragmatic Approach
+
+Some practices and approaches will help you develop better code.
+
+- Reduce duplication when possible. Limit documentation to only live where it is most relevant. Share common code in an easily accessible manner.
