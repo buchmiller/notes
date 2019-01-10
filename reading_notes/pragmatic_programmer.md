@@ -18,3 +18,10 @@ Being a pragmatic programmer is about your attitude and how you approach various
 Some practices and approaches will help you develop better code.
 
 - Reduce duplication when possible. Limit documentation to only live where it is most relevant. Share common code in an easily accessible manner.
+- Keep things decoupled and independent. Keeping layers of a system in separate modules enables easily changing just one part.
+- When making a decision, don't get locked into a certain way of doing it. Plan ahead so that parts can easily be removed or changed later.
+- Use tracer bullets to test that all parts of system work together. Create minimal project that utilizes all parts of the system. This project is kept and added onto.
+- Use prototype to learn / answer specific question / test ideas. Throw away after.
+- When applicable, offer a higher-level language to abstract away unimportant details.
+
+## Chapter 3 - The Basic Tools
