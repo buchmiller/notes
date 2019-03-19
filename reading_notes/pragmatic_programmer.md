@@ -23,7 +23,7 @@ Some practices and approaches will help you develop better code.
 - Use tracer bullets to test that all parts of system work together. Create minimal project that utilizes all parts of the system. This project is kept and added onto.
 - Use prototype to learn / answer specific question / test ideas. Throw away after.
 - When applicable, offer a higher-level language to abstract away unimportant details.
-- placeholder - estimating
+- Learn to estimate how long things will take. Convey accuracy with choice of units. Update project estimates as you go.
 
 ## Chapter 3 - The Basic Tools
 
