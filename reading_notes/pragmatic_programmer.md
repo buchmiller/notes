@@ -69,9 +69,9 @@ Summary
 
 ## Chapter 7 - Before the Project
 
-Summary
+Take care of certain needs before even beginning work on a project.
 
-- placeholder
+- Keep requirements abstract with simple statements. Use cases help document goals. Keep track of injections. Ensure terminology is consistent between developers and stakeholders.
 - placeholder
 - placeholder
 - placeholder
