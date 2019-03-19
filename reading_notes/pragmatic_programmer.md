@@ -27,15 +27,15 @@ Some practices and approaches will help you develop better code.
 
 ## Chapter 3 - The Basic Tools
 
-Summary
+Learn to use multiple tools to better perform daily tasks.
 
-- placeholder
-- placeholder
-- placeholder
-- placeholder
-- placeholder
-- placeholder
-- placeholder
+- Keep underlying data human readable by using plain text.
+- Increase productivity by learning to use a shell.
+- Become proficient in a single editor, and try to use it for all editing.
+- Use source code control (versioning) to track changes. This is not limited to just source code.
+- Keep calm and focus on fixing bugs instead of who caused them. Utilize a debugger to see the state of the program.
+- Learn a text manipulation language that allows quickly trying out ideas and creating simple tools.
+- Generate code to reduce duplication of effort.
 
 ## Chapter 4 - Pragmatic Paranoia
 
