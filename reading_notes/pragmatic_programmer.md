@@ -23,5 +23,67 @@ Some practices and approaches will help you develop better code.
 - Use tracer bullets to test that all parts of system work together. Create minimal project that utilizes all parts of the system. This project is kept and added onto.
 - Use prototype to learn / answer specific question / test ideas. Throw away after.
 - When applicable, offer a higher-level language to abstract away unimportant details.
+- placeholder - estimating
 
 ## Chapter 3 - The Basic Tools
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+
+## Chapter 4 - Pragmatic Paranoia
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+
+## Chapter 5 - Bend, or Break
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+
+## Chapter 6 - While You Are Coding
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+
+## Chapter 7 - Before the Project
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+
+## Chapter 8 - Pragmatic Projects
+
+Summary
+
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
+- placeholder
