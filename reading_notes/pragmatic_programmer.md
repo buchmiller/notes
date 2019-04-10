@@ -72,10 +72,10 @@ Summary
 Take care of certain needs before even beginning work on a project.
 
 - Keep requirements abstract with simple statements. Use cases help document goals. Keep track of injections. Ensure terminology is consistent between developers and stakeholders.
-- placeholder
-- placeholder
-- placeholder
-- placeholder
+- When facing a seemingly impossible task, find the real constraints of the problem.
+- If you don't think you are ready to start, identify the reason - perhaps by beginning a prototype.
+- Don't spend too much time getting extremely detailed in specifications. These may change as you begin coding.
+- Use formal methods to help specify a project, but don't overdo it.
 
 ## Chapter 8 - Pragmatic Projects
 
