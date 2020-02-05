@@ -26,6 +26,7 @@ A place to store information I want to look at later.
 ## Reading Notes
 
 - [The Pragmatic Programmer](reading_notes/pragmatic_programmer.md)
+- [2020 Reading](reading_notes/2020reading.md)
 
 ## SQL
 
