@@ -28,3 +28,11 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - Once you understand confusing code, refactor to make it easier for someone else to understand.
 - Refactor before making other changes. "Make the change easy (warning: this may be hard), then make the easy change." -Kent Beck
 - Only rewrite when better functionality is needed.
+
+[Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+
+- Non-deterministic tests are useless and ruin the test suite. Can cause you to ignore test failures.
+- Keep tests isolated: rebuild state on each or cleanup when done.
+- Asynchronous calls can utilize callbacks or polling.
+- Remote services can use Test Double or Contract Tests.
+- Time based calls should be wrapped with a clock stub. Same for resource limiting - wrap the calls with a stub.
