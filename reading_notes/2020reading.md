@@ -36,3 +36,15 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - Asynchronous calls can utilize callbacks or polling.
 - Remote services can use Test Double or Contract Tests.
 - Time based calls should be wrapped with a clock stub. Same for resource limiting - wrap the calls with a stub.
+
+[Optimizing for iteration speed](https://erikbern.com/2017/07/06/optimizing-for-iteration-speed.html)
+
+- "Two-week or three-week sprints are mini waterfall and sacrifices a lot of flexibility for the purpose of providing external stakeholders a bit more predictability."
+- "Splitting up tasks into small, incremental pieces and shipping each of them separately is the fastest way to deliver value."
+- Teams and individuals should be cross-functional, able to complete a full-stack task themselves.
+
+[The art of reviewing code](https://blog.usejournal.com/the-art-of-reviewing-code-e10a3a830a2e)
+
+- Trust each other to timely and thoughtfully review code.
+- Be flexible in how you review code - understand the priority and audience.
+- Guide rather than tell to allow for growth.
