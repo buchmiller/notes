@@ -12,9 +12,9 @@
 
 ## Useful plugins
 
-- [Angular 6 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+- [Angular 8 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-- [Angular v6 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [Angular Snippets (Version 9)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
@@ -28,14 +28,15 @@
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   - [Chrome debugging with Angular CLI](https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-- [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
-- [SVN](https://marketplace.visualstudio.com/items?itemName=johnstoncode.svn-scm)
-- [SVN Gutter](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 
 ## Change shell type
 
