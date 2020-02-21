@@ -48,3 +48,9 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - Trust each other to timely and thoughtfully review code.
 - Be flexible in how you review code - understand the priority and audience.
 - Guide rather than tell to allow for growth.
+
+[How to write usefully](http://paulgraham.com/useful.html)
+
+- An essay should make correct statements. It should tell something important that some people don't already know or haven't yet put into words.
+- Don't publish until you feel confident in the writing. Proof-read to get to that point.
+- Write about something important to you that you think about often.
