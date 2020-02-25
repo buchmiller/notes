@@ -54,3 +54,13 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - An essay should make correct statements. It should tell something important that some people don't already know or haven't yet put into words.
 - Don't publish until you feel confident in the writing. Proof-read to get to that point.
 - Write about something important to you that you think about often.
+
+[The SSCCE](http://sscce.org/)
+
+- Short, Self Contained, Correct (compilable), Example
+- Prepare example code that follows this format for others to see and help out.
+
+[test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
+
+- if tests fail, changed code is reverted.
+- encourages very small changes.
