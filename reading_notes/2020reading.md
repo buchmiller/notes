@@ -64,3 +64,14 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - if tests fail, changed code is reverted.
 - encourages very small changes.
+
+## March
+
+[Programming Bottom-Up](http://www.paulgraham.com/progbot.html)
+
+- "When you work bottom-up, you usually end up with a different program. Instead of a single, monolithic program, you will get a larger language with more abstract operators, and a smaller program written in it."
+
+[Excuses](http://blog.cleancoder.com/uncle-bob/2017/12/18/Excuses.html)
+
+- double entry bookkeeping is similar to test driven development
+- excuses that an accountant wouldn't use shouldn't be used for writing tests
