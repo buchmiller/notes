@@ -75,3 +75,15 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - double entry bookkeeping is similar to test driven development
 - excuses that an accountant wouldn't use shouldn't be used for writing tests
+
+[Numeric Separators in TypeScript](https://mariusschulz.com/blog/numeric-separators-in-typescript)
+
+- Typescript 2.7 introduces underscores in numeric literals i.e. 4_000_000
+
+[Declare what you need, not what you get](https://blog.atomist.com/declare-what-you-need-not-what-you-get)
+
+- Typescript lets you pick specific properties from a type to store into another type. This lets you state exactly which properties you actually need.
+
+[Programming Isn't Manual Labor, But It Still Sucks](https://mashable.com/2014/04/30/programming-sucks)
+
+- meandering rant and analagies galore about programming life.
