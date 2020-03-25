@@ -87,3 +87,11 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Programming Isn't Manual Labor, But It Still Sucks](https://mashable.com/2014/04/30/programming-sucks)
 
 - meandering rant and analagies galore about programming life.
+
+[Why Scaling Agile Doesn't Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg) (video)
+
+- focus on value, not cost
+  - estimated cost is worthless compared to finding out if people will actually use the software
+  - quickly deliver the things that provide the most value (other requirements can be delayed)
+- small feedback loops to validate assumptions
+  - you can get value from software before you finish building it
