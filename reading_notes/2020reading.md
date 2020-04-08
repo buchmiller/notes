@@ -106,3 +106,9 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Letting tools make choices](https://www.jackfranklin.co.uk/blog/letting-tools-make-choices)
 
 - much time can be wasted by fussing over project configuration when it doesn't really matter
+
+[My life as a Code Economist (Four Questions)](https://ericsink.com/articles/Four_Questions.html)
+
+- "Every time you fix a bug, you risk introducing another one."
+- Determine these four things about each bug: Severity, Frequency, Cost, Risk
+- Understand market windows and expectations
