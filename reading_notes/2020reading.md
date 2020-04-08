@@ -95,3 +95,14 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
   - quickly deliver the things that provide the most value (other requirements can be delayed)
 - small feedback loops to validate assumptions
   - you can get value from software before you finish building it
+
+## April
+
+[Incorporate the Modern World Into the Software’s World](https://blog.atomist.com/modern-software-world)
+
+- all code is technical debt
+- utilize existing tools and frameworks
+
+[Letting tools make choices](https://www.jackfranklin.co.uk/blog/letting-tools-make-choices)
+
+- much time can be wasted by fussing over project configuration when it doesn't really matter
