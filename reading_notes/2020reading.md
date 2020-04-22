@@ -112,3 +112,8 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - "Every time you fix a bug, you risk introducing another one."
 - Determine these four things about each bug: Severity, Frequency, Cost, Risk
 - Understand market windows and expectations
+
+[How Do You Make Good Decisions Efficiently in a Flat Organization?](https://doist.com/blog/decision-making-flat-organization)
+
+- "Once everyone can live with a given solution, you’ve reached rough consensus, even if there are outstanding objections."
+- A solution should not be rejected unless it has fundamental flaws.
