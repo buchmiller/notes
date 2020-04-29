@@ -117,3 +117,9 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - "Once everyone can live with a given solution, you’ve reached rough consensus, even if there are outstanding objections."
 - A solution should not be rejected unless it has fundamental flaws.
+
+[The 13 Most Impactful Things Teams Can Do To Stay Productive While Working From Home](https://doist.com/blog/work-from-home-advice)
+
+- "Focusing on inputs leads to constant interruptions, busywork, and burnout, more often than stellar results. Instead, shift the focus to outputs — the results that actually create value for the company"
+- Communicate through the appropriate medium
+- Setup a work space to separate work life. Maintain a daily routine.
