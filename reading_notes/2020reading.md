@@ -123,3 +123,14 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - "Focusing on inputs leads to constant interruptions, busywork, and burnout, more often than stellar results. Instead, shift the focus to outputs — the results that actually create value for the company"
 - Communicate through the appropriate medium
 - Setup a work space to separate work life. Maintain a daily routine.
+
+## May
+
+[The Fallacy of Move Fast and Break Things](https://devops.com/the-fallacy-of-move-fast-and-break-things)
+
+- "To effectively move fast, you need processes in place to support the velocity." Fixing the broken things also needs to be fast.
+- "Employees need to feel empowered to speak up if things are moving too fast.... They need to feel they won’t be blamed when something breaks."
+
+[The Well in the Field](https://avdi.codes/the-well-in-the-field/?utm_source=drip&utm_medium=email&utm_campaign=SIGAVDI+%2383%3A+Cream+Cheese+BBQ+Chicken+Edition)
+
+- Put effort upfront (priming the pump) into making your work easier. Invest in yourself.
