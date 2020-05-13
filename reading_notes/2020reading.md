@@ -134,3 +134,12 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [The Well in the Field](https://avdi.codes/the-well-in-the-field/?utm_source=drip&utm_medium=email&utm_campaign=SIGAVDI+%2383%3A+Cream+Cheese+BBQ+Chicken+Edition)
 
 - Put effort upfront (priming the pump) into making your work easier. Invest in yourself.
+
+[Your statement is 100% correct but misses the entire point](https://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html)
+
+- Making a true statement as a counter-argument does not necessarily invalidate the original statement.
+- "Being right is easy. Being relevant is extremely difficult."
+
+[Trying Stuff in Docker](https://www.rubytapas.com/2020/02/11/trying-stuff-in-docker-2)
+
+- the basic commands to run a docker image
