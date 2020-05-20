@@ -143,3 +143,7 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Trying Stuff in Docker](https://www.rubytapas.com/2020/02/11/trying-stuff-in-docker-2)
 
 - the basic commands to run a docker image
+
+[Const Assertions in Literal Expressions in TypeScript](https://mariusschulz.com/blog/const-assertions-in-literal-expressions-in-typescript)
+
+- storing literals in objects as const
