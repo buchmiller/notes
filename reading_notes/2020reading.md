@@ -147,3 +147,11 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Const Assertions in Literal Expressions in TypeScript](https://mariusschulz.com/blog/const-assertions-in-literal-expressions-in-typescript)
 
 - storing literals in objects as const
+
+[Function Overloads in Typescript](https://mariusschulz.com/blog/function-overloads-in-typescript)
+
+- function overloads give more typing options than union types and generics
+
+[Leverage as Baggage](https://jessitron.com/2020/05/17/leverage-as-baggage/)
+
+- code reuse or strict frameworks can introduce more coupling
