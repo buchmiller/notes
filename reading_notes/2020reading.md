@@ -165,3 +165,17 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [The Omit Helper Type in TypeScript](https://mariusschulz.com/blog/the-omit-helper-type-in-typescript)
 
 - "The `Omit<T, K>` type lets us create an object type that omits specific properties from another object type"
+
+[The perfect unit test](https://www.jackfranklin.co.uk/blog/the-perfect-javascript-unit-test/)
+
+- "Tests are bad if you don't find them useful. The entire point of having tests is to increase your productivity, workflow and confidence in your codebase."
+- Good tests have a descriptive name and steps for: setup, invocation, assertion.
+
+[Testing With Intent: Descriptive Test Naming](https://paulbellamy.com/2019/01/testing-with-intent-9-descriptive-test-naming)
+
+- "A descriptive test name should include the expected input, or setup state. It should include the subject we are testing, or the action we are taking. And, it should include the expected result."
+- "Ultimately, test naming is about making your own job easier in the future."
+
+[Structuring Unit Tests](https://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/)
+
+- Test classes can have nested classes. This can help organize tests and group together shared setup steps.
