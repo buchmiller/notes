@@ -155,3 +155,13 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Leverage as Baggage](https://jessitron.com/2020/05/17/leverage-as-baggage/)
 
 - code reuse or strict frameworks can introduce more coupling
+
+## June
+
+[Goals vs. Systems](https://www.scottadamssays.com/2013/11/18/goals-vs-systems/)
+
+- "For example, losing ten pounds is a goal (that most people can’t maintain), whereas learning to eat right is a system that substitutes knowledge for willpower."
+
+[The Omit Helper Type in TypeScript](https://mariusschulz.com/blog/the-omit-helper-type-in-typescript)
+
+- "The `Omit<T, K>` type lets us create an object type that omits specific properties from another object type"
