@@ -179,3 +179,11 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Structuring Unit Tests](https://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/)
 
 - Test classes can have nested classes. This can help organize tests and group together shared setup steps.
+
+[Read-Only Array and Tuple Types in TypeScript](https://mariusschulz.com/blog/read-only-array-and-tuple-types-in-typescript)
+
+- TypeScript can have immutable arrays and tuples. e.g. `ReadonlyArray<string>` or `readonly string[]`
+
+[Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb)
+
+- By analyzing "How are we doing?" we can decide what to do next. In this analysis, prefer measuring outcome (how much value customers receive).
