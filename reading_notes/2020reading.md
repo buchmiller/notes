@@ -187,3 +187,11 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb)
 
 - By analyzing "How are we doing?" we can decide what to do next. In this analysis, prefer measuring outcome (how much value customers receive).
+
+## July
+
+[Lessons from 6 software rewrite stories](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22)
+
+- Generally avoid rewrites and make incremental improvements instead.
+- It might make sense to create a new product in addition to the existing one. Don't immediately drop support for the original product.
+- The existing product has value. It doesn't have to be thrown away to innovate.
