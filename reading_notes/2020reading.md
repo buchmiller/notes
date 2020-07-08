@@ -195,3 +195,7 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - Generally avoid rewrites and make incremental improvements instead.
 - It might make sense to create a new product in addition to the existing one. Don't immediately drop support for the original product.
 - The existing product has value. It doesn't have to be thrown away to innovate.
+
+[The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer)
+
+- The magpie developer is always looking for the next new, shiny thing. Don't let this get in the way of getting things done. Use what works for our use case.
