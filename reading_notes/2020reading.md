@@ -199,3 +199,7 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer)
 
 - The magpie developer is always looking for the next new, shiny thing. Don't let this get in the way of getting things done. Use what works for our use case.
+
+[The unknown Type in Typescript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
+
+- The `unknown` type is similar to `any` but with more restrictions when accessed.
