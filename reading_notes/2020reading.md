@@ -203,3 +203,12 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [The unknown Type in Typescript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
 
 - The `unknown` type is similar to `any` but with more restrictions when accessed.
+
+[Why Warren Buffet Believes Feedback Is A Gift and You Should Too](https://www.inc.com/jim-schleckser/why-warren-buffet-believes-feedback-is-a-gift-you-should-too.html)
+
+- Be open to any feedback people want to give you. It means they care about helping you improve.
+
+[Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+
+- Learning shouldn't be about success vs. failure. Failure should be thought of as "not yet."
+- We focus too much on getting A's and getting things right the first time. We should instead reward the process and the effort. This leads to growth.
