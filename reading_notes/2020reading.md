@@ -212,3 +212,9 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - Learning shouldn't be about success vs. failure. Failure should be thought of as "not yet."
 - We focus too much on getting A's and getting things right the first time. We should instead reward the process and the effort. This leads to growth.
+
+## August
+
+[Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
+
+- expiring skills (specific to a given time) get more attention, but permanent skills (relevant in any time) lead to long term success
