@@ -217,4 +217,8 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 
-- expiring skills (specific to a given time) get more attention, but permanent skills (relevant in any time) lead to long term success
+- Expiring skills (specific to a given time) get more attention, but permanent skills (relevant in any time) lead to long term success.
+
+[Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment)
+
+- Many people critique articles they have never read or take quotations out of context.
