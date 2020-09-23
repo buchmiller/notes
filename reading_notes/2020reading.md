@@ -222,3 +222,13 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment)
 
 - Many people critique articles they have never read or take quotations out of context.
+
+## September
+
+[Concatenating Arrays in JavaScript](https://mariusschulz.com/blog/concatenating-arrays-in-javascript)
+
+- Several different approaches to concatenate multiple arrays into a single one.
+
+[Nullish Coalescing: The ?? Operator in TypeScript](https://mariusschulz.com/blog/nullish-coalescing-the-operator-in-typescript)
+
+- An operator to provide a fallback value for a nullable value.
