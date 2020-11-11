@@ -208,7 +208,7 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - Be open to any feedback people want to give you. It means they care about helping you improve.
 
-[Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+[Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) (video)
 
 - Learning shouldn't be about success vs. failure. Failure should be thought of as "not yet."
 - We focus too much on getting A's and getting things right the first time. We should instead reward the process and the effort. This leads to growth.
@@ -232,3 +232,16 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Nullish Coalescing: The ?? Operator in TypeScript](https://mariusschulz.com/blog/nullish-coalescing-the-operator-in-typescript)
 
 - An operator to provide a fallback value for a nullable value.
+
+## October
+
+[Test-Driven Development (TDD) and Why People Get it Wrong](https://medium.com/ssense-tech/test-driven-development-tdd-and-why-people-get-it-wrong-9c8b80536838)
+
+- TDD is for more than just creating a new feature. It can also be used for updating features and fixing bugs.
+
+## November
+
+[TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) (video)
+
+- Write tests for requirements/api/behavior, not for implementations / low level code
+- Red, green, refactor - Write sinful code - It's about getting to green very quickly
