@@ -252,3 +252,10 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 - Don't let ego or highly visible work distract from more impactful work.
 - "Things that simply won’t happen if you don’t do them are your biggest opportunity to work on something that matters, and it’s a category that will get both narrower and deeper the further you get into your career."
 - "The only viable long-term bet on your career is to do work that matters, work that develops you and to steer towards companies that value genuine expertise."
+
+## December
+
+[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love)
+
+- Spend time preparing code reviews as the author. Value the reviewer's time. 13 techniques to do so.
+- "Allow [the reviewer] to spend time on the interesting parts of your code. If you require them to untangle your code or police simple mistakes, you both suffer."
