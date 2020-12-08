@@ -259,3 +259,8 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 
 - Spend time preparing code reviews as the author. Value the reviewer's time. 13 techniques to do so.
 - "Allow [the reviewer] to spend time on the interesting parts of your code. If you require them to untangle your code or police simple mistakes, you both suffer."
+
+[Software development is like geriatrics](https://jessitron.com/2020/07/11/software-development-is-like-geriatrics)
+
+- "Caring for software takes more knowledge than a single person can acquire."
+- "Interdisciplinary teams have smooth relationships with each other. They each have increasing knowledge in some areas, and enough knowledge of everything to know when to consult each other person. They work together to fix the software, rather than each inadequacy."
