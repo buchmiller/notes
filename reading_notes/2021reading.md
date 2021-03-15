@@ -29,3 +29,9 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - "You can only hand so many hours of your day over to other people before there is none left. Even if there are some left, you may have lost the clarity, the energy and the capacity to do anything with them."
 - "Time? Time is our most irreplaceable asset - we cannot buy more of it. We cannot get a second of it back. We can only hope to waste as little as possible. Yet somehow we treat it as most renewable of all resources."
+
+## March
+
+[When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
+
+- Batching many changes together into a single large deploy increases the risk of the deploy and makes it difficult to pinpoint which change caused a problem.
