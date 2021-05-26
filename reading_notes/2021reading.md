@@ -35,3 +35,17 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/)
 
 - Batching many changes together into a single large deploy increases the risk of the deploy and makes it difficult to pinpoint which change caused a problem.
+
+## May
+
+[Why Senior Engineers Hate Coding Interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
+
+- "They take a ton of prep time to nail... They push senior engineers to work differently... They don’t really test what you’ll want them to do once hired... They send a bad message..."
+
+[Becoming a High-Performance Software Engineer](https://medium.com/riskified-technology/becoming-a-high-performance-software-engineer-895ec6949782)
+
+- "An engineer’s day-to-day work... is an expected bar from all software engineers. To stand out and create a major impact requires more... such an engineer is someone who aims for excellence and to create an impact beyond their own individual work."
+- Be engaged in meetings by being an active participant.
+- Own the feature you work on by ensuring information is accurate and nothing got missed.
+- "[Small or micro-refactors] should be performed constantly and so as to not delay our feature delivery time... In other words, align the areas of code you touch to high coding standards."
+- "To stay relevant and excel, a high-performing engineer should always be passionate about learning and broadening his or her knowledge."
