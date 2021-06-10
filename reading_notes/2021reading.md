@@ -49,3 +49,10 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 - Own the feature you work on by ensuring information is accurate and nothing got missed.
 - "[Small or micro-refactors] should be performed constantly and so as to not delay our feature delivery time... In other words, align the areas of code you touch to high coding standards."
 - "To stay relevant and excel, a high-performing engineer should always be passionate about learning and broadening his or her knowledge."
+
+## June
+
+[Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
+
+- Act as if you might leave soon. This encourages writing more documentation and sharing knowledge with others.
+- "By being disposable, you free yourself. You make it easier for yourself to grow into a higher-level role and you make it easier for yourself to change the projects you work on."
