@@ -56,3 +56,7 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - Act as if you might leave soon. This encourages writing more documentation and sharing knowledge with others.
 - "By being disposable, you free yourself. You make it easier for yourself to grow into a higher-level role and you make it easier for yourself to change the projects you work on."
+
+[Friday Facts #366 - The only way to go fast, is to go well!](https://factorio.com/blog/post/fff-366)
+
+- Taking time to have a good base layer of code and consistently writing tests allows faster development.
