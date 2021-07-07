@@ -60,3 +60,14 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 [Friday Facts #366 - The only way to go fast, is to go well!](https://factorio.com/blog/post/fff-366)
 
 - Taking time to have a good base layer of code and consistently writing tests allows faster development.
+
+## July
+
+[[Part 1] The problems with MVPs in legacy replacement](https://www.thoughtworks.com/insights/blog/legacy-modernization/part-1-problems-mvps-legacy-replacement)
+
+- "Your existing system/process and all the tools, workarounds, and shadow IT that people have put in place to get their job done is the MVP. Your main goal now is to learn from it."
+
+[[Part 2] The problems with MVPs in legacy replacement](https://www.thoughtworks.com/insights/blog/legacy-modernization/part-2-problems-mvps-legacy-replacement)
+
+- "Given what you generally have is a fully functioning system, anything less than that is likely to be perceived incredibly negatively."
+- "[SPV or 'shortest path to value'] is a way of decomposing the needs of the new system(s) into a roadmap that aims to get valuable ‘chunks’ of functionality into the hands of users as soon as possible and with as minimal an impact on their existing work as possible. And then to follow that with the next valuable ‘chunk’ as quickly as possible so that people are reassured that they are not losing functionality overall."
