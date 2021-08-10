@@ -71,3 +71,12 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - "Given what you generally have is a fully functioning system, anything less than that is likely to be perceived incredibly negatively."
 - "[SPV or 'shortest path to value'] is a way of decomposing the needs of the new system(s) into a roadmap that aims to get valuable ‘chunks’ of functionality into the hands of users as soon as possible and with as minimal an impact on their existing work as possible. And then to follow that with the next valuable ‘chunk’ as quickly as possible so that people are reassured that they are not losing functionality overall."
+
+## August
+
+[Four Ways of Writing Thoughtful Code to Think Less](https://keyholesoftware.com/2021/02/15/four-ways-to-put-developer-experience-first/)
+
+- Write honest code. Use common terminology that accurately describes what the code does.
+- Get to the point. Write concise code that is minimal and easy to read. Organize files and functions to group related code.
+- Keep with conventions. Staying consistent within a project makes it easier for developers to contribute.
+- Leverage existing libraries. These libraries are often community tested and reviewed, and might already be familiar to others.
