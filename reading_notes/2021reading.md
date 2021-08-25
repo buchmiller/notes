@@ -80,3 +80,9 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 - Get to the point. Write concise code that is minimal and easy to read. Organize files and functions to group related code.
 - Keep with conventions. Staying consistent within a project makes it easier for developers to contribute.
 - Leverage existing libraries. These libraries are often community tested and reviewed, and might already be familiar to others.
+
+[Defense Against the Dark Art of Estimation Bargaining](http://www.monkeyandcrow.com/blog/estimation_bargaining/)
+
+- Bargain scope, not time.
+- Break down estimates of work to show why that number was chosen.
+- "As you learn, revisit your estimate. As it changes, convey that back. Remember, we're all just guessing until we're done with a project, so be humble."
