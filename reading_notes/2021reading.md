@@ -86,3 +86,16 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 - Bargain scope, not time.
 - Break down estimates of work to show why that number was chosen.
 - "As you learn, revisit your estimate. As it changes, convey that back. Remember, we're all just guessing until we're done with a project, so be humble."
+
+## September
+
+[How hard should I push myself?](https://every.to/superorganizers/how-hard-should-i-push-myself)
+
+- "It’s great to push yourself—but you should be paying attention to the signs that tell you that you need a break."
+- Methods to manage stress include: increase your sense of predictability, create outlets for frustration, and increase social support.
+
+[The True Meaning of Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
+
+- Technical debt is "the natural result of writing code about something we don't have a proper understanding of."
+- This does not give justification for writing poor quality code with intentions to improve it later.
+- The debt can be reduced by spending more effort on design, or the debt rework can be explicitly planned for.
