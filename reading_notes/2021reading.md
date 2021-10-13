@@ -99,3 +99,10 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 - Technical debt is "the natural result of writing code about something we don't have a proper understanding of."
 - This does not give justification for writing poor quality code with intentions to improve it later.
 - The debt can be reduced by spending more effort on design, or the debt rework can be explicitly planned for.
+
+## October
+
+[Achieving accessibility through simplicity](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
+
+- "The hard truth is that you just have to make your website simpler and easier to use — for everyone."
+- "Investing in accessibility makes your service better for everyone."
