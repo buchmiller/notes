@@ -106,3 +106,8 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - "The hard truth is that you just have to make your website simpler and easier to use — for everyone."
 - "Investing in accessibility makes your service better for everyone."
+
+[What to learn](https://danluu.com/learn-what/)
+
+- Rather than learning too many things, specialize in what you are good at.
+- "People tend to overestimate how much something working for them means that it works for other people, making advice generally useless because it doesn't distinguish between advice that's aptitude or circumstance specific and generalizable advice."
