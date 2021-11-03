@@ -111,3 +111,10 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - Rather than learning too many things, specialize in what you are good at.
 - "People tend to overestimate how much something working for them means that it works for other people, making advice generally useless because it doesn't distinguish between advice that's aptitude or circumstance specific and generalizable advice."
+
+## November
+
+[Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
+
+- Derisk - Start by migrating several of the more difficult projects.
+- Enable - Automate migrating the majority of the easier projects. Provide tooling and clear documentation for performing the migration.
