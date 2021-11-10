@@ -118,3 +118,8 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - Derisk - Start by migrating several of the more difficult projects.
 - Enable - Automate migrating the majority of the easier projects. Provide tooling and clear documentation for performing the migration.
+
+[Developer tools: extend your reach (with some work)](https://jessitron.com/2020/06/07/developer-tools-extend-your-reach-with-some-work/)
+
+- When you need to focus on the tool itself, it takes away time spent on the actual work. Learning your tools better can reduce this time.
+- "I become a better developer by extending my own abilities, by getting familiar and comfortable with more tools."
