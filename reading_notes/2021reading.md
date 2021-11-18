@@ -123,3 +123,9 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 
 - When you need to focus on the tool itself, it takes away time spent on the actual work. Learning your tools better can reduce this time.
 - "I become a better developer by extending my own abilities, by getting familiar and comfortable with more tools."
+
+[Is tasking developers with creating detailed estimates a waste of company money?](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42)
+
+- "Yes, it is because software engineering involves messy discovery of a solution in the complex, abstract environment of code and changing requirements. Those detailed estimates are difficult to come up with and are mostly wrong because there is discovery of both coding constructs and requirements that needs to be done throughout the project."
+- "Instead of spending time on questionable estimates, Software Engineers should be focused on creating valuable software that supports a sustainable business!"
+- "Use historical information to guide your high level estimates for future projects."
