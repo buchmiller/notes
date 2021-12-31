@@ -129,3 +129,13 @@ Links to articles I read in 2021 with a few notes to remind me of the topic.
 - "Yes, it is because software engineering involves messy discovery of a solution in the complex, abstract environment of code and changing requirements. Those detailed estimates are difficult to come up with and are mostly wrong because there is discovery of both coding constructs and requirements that needs to be done throughout the project."
 - "Instead of spending time on questionable estimates, Software Engineers should be focused on creating valuable software that supports a sustainable business!"
 - "Use historical information to guide your high level estimates for future projects."
+
+## December
+
+[Code is a Coastline](https://jessitron.com/2020/09/19/code-is-a-coastline/)
+
+- "The distance from here to a new feature gets longer as you get deeper into the details."
+
+[The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
+
+- Pair programming all the time can be draining and cause burnout. It has many benefits, but when forced to occur all the time it is overwhelming.
