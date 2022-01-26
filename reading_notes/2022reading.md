@@ -18,3 +18,10 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "Traditional management needs to evolve; they should start by listening to what developers are saying management should do."
 - "Predictive planning is used to organize known duration manufacturing and order fulfillment tasks, not software projects."
+
+[The Right Way to Respond to Negative Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
+
+- Take time before responding to critical feedback and make sure to understand it better.
+- "It can be harder to change the perceptions of our behavior than the behavior itself." Find something highly visible that symbolizes the intent to change.
+- Don't avoid the people who give honest feedback. Continue to work with them on improving.
+- If a weakness is something not easily changed, work to communicate that weakness better.
