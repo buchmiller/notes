@@ -25,3 +25,9 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 - "It can be harder to change the perceptions of our behavior than the behavior itself." Find something highly visible that symbolizes the intent to change.
 - Don't avoid the people who give honest feedback. Continue to work with them on improving.
 - If a weakness is something not easily changed, work to communicate that weakness better.
+
+## February
+
+[How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+
+- The Expert Beginner is "voluntarily ceasing to improve because of a belief that expert status has been reached and thus further improvement is not possible."
