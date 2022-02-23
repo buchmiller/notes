@@ -41,3 +41,8 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "The Expert Beginner takes something that’s considered an industry standard or best practice, admits to not practicing it, and offers instead something completely unacceptable (or even nonsensical/made up) as a stand-in, implying that you should accept the switch because they say so."
 - "The only thing [Expert Beginners] can offer is the evidence that they have of their qualifications–their relative position of authority. And so, during any arguments or explanations, all roads lead back to them, their position titles, their time with the company, and the fact that their opinions are inviolate."
+
+[Up or Not: Ambition of the Expert Beginner](https://daedtech.com/up-or-not-ambition-of-the-expert-beginner/)
+
+- "Being deluded about one’s own competence isn’t a viable, long-term success strategy.... Better outcomes are more likely if you have an honest valuation of your own talents and skills."
+- "You can generally have success on your own terms through the right combination of strategy, dedication, and earnest self-improvement, but to improve oneself requires a frank and honest inventory of one’s shortcomings."
