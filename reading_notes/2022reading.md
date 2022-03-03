@@ -46,3 +46,9 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "Being deluded about one’s own competence isn’t a viable, long-term success strategy.... Better outcomes are more likely if you have an honest valuation of your own talents and skills."
 - "You can generally have success on your own terms through the right combination of strategy, dedication, and earnest self-improvement, but to improve oneself requires a frank and honest inventory of one’s shortcomings."
+
+## March
+
+[It's now your fault they don't know about it](http://rachelbythebay.com/w/2022/03/02/wrong/)
+
+- For some people, "something's always wrong, and if you refute their points, they will pivot to find something else.... They chose their outcome before they even started the conversation, and they're on rails, headed for that outcome and no other."
