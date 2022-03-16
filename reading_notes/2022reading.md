@@ -52,3 +52,12 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 [It's now your fault they don't know about it](http://rachelbythebay.com/w/2022/03/02/wrong/)
 
 - For some people, "something's always wrong, and if you refute their points, they will pivot to find something else.... They chose their outcome before they even started the conversation, and they're on rails, headed for that outcome and no other."
+
+[I Just Don’t Want to Be Busy Anymore](https://forge.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119)
+
+- Create goals for reducing burnout, and ask peers for support. Nobody is going to just do this for you.
+
+[Celebrate tiny learning milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/)
+
+- "I think it’s much more healthy to be flexible about your goals and to celebrate the milestones you do end up getting to instead of feeling bad about goals that you “failed” at."
+- "I do think it’s important to celebrate these milestones somewhere. It gives me a real sense that I’m making progress and it helps me stay motivated to keep learning about the thing."
