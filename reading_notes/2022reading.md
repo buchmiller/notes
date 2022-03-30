@@ -61,3 +61,7 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "I think it’s much more healthy to be flexible about your goals and to celebrate the milestones you do end up getting to instead of feeling bad about goals that you “failed” at."
 - "I do think it’s important to celebrate these milestones somewhere. It gives me a real sense that I’m making progress and it helps me stay motivated to keep learning about the thing."
+
+[Wasted Talent: The Tragedy of the Expert Beginner](https://daedtech.com/wasted-talent-the-tragedy-of-the-expert-beginner/)
+
+- An expert beginner will put in the work up front to become competent enough, then coast through on "good enough" rather than further investing in their future.
