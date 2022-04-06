@@ -65,3 +65,10 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 [Wasted Talent: The Tragedy of the Expert Beginner](https://daedtech.com/wasted-talent-the-tragedy-of-the-expert-beginner/)
 
 - An expert beginner will put in the work up front to become competent enough, then coast through on "good enough" rather than further investing in their future.
+
+## April
+
+[Embracing Impostor Syndrome](https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/)
+
+- "I'm grateful for the feedback, rather than defensive, because I never held the idea that my work was perfect."
+- "Knowing that I might be wrong... prepares me for the inevitable failures. They’re no longer surprises. They’re expected and embraced."
