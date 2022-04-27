@@ -72,3 +72,8 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "I'm grateful for the feedback, rather than defensive, because I never held the idea that my work was perfect."
 - "Knowing that I might be wrong... prepares me for the inevitable failures. They’re no longer surprises. They’re expected and embraced."
+
+[Nobody cares about your beautiful code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+
+- "Users couldn’t care less about the programming language you used or how beautiful, clean, modular and maintainable your code is."
+- Startups make the trade off between quickly iterating to beat the competition and steadily growing maintainable software.
