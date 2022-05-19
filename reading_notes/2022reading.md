@@ -77,3 +77,12 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "Users couldn’t care less about the programming language you used or how beautiful, clean, modular and maintainable your code is."
 - Startups make the trade off between quickly iterating to beat the competition and steadily growing maintainable software.
+
+## May
+
+[Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+
+- "You can’t predict the future; try and you might end up in trouble"
+- "The goal is to provide value to your customers. The trap: it’s often easier to write software than to deliver it. But delivering is what it’s all about."
+- "You can refactor a codebase and clean it up significantly, making it easier to understand for everybody and easier to extend, but all of that won’t matter if that codebase gets deleted four months later because the project didn’t help the business."
+- "It’s not about the rules! It’s about the problems these rules are trying to prevent. If you don’t have the problem they’re trying to prevent, or you can prevent it another way, you don’t need the rule."
