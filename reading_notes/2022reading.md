@@ -86,3 +86,8 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 - "The goal is to provide value to your customers. The trap: it’s often easier to write software than to deliver it. But delivering is what it’s all about."
 - "You can refactor a codebase and clean it up significantly, making it easier to understand for everybody and easier to extend, but all of that won’t matter if that codebase gets deleted four months later because the project didn’t help the business."
 - "It’s not about the rules! It’s about the problems these rules are trying to prevent. If you don’t have the problem they’re trying to prevent, or you can prevent it another way, you don’t need the rule."
+
+[Inbox, diary, to-do list: now choose just two](https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/)
+
+- Many people will neglect some of their responsibilities to give focus to other ones.
+- Finding a way to manage our time and work should be part of our professional skills.
