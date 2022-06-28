@@ -91,3 +91,10 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - Many people will neglect some of their responsibilities to give focus to other ones.
 - Finding a way to manage our time and work should be part of our professional skills.
+
+## June
+
+[A Project of One's Own](http://paulgraham.com/own.html)
+
+- Feeling ownership over a project can help you feel excited and engaged.
+- "It's easy for something new to feel like a project of your own. That's one of the reasons for the tendency programmers have to rewrite things that don't need rewriting, and to write their own versions of things that already exist."
