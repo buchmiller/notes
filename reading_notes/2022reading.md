@@ -98,3 +98,9 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - Feeling ownership over a project can help you feel excited and engaged.
 - "It's easy for something new to feel like a project of your own. That's one of the reasons for the tendency programmers have to rewrite things that don't need rewriting, and to write their own versions of things that already exist."
+
+## July
+
+[Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
+
+- "Find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it."
