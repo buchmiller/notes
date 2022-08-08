@@ -104,3 +104,10 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
 
 - "Find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it."
+
+## August
+
+[Instagram Founder Kevin Systrom's 5-Minute Cure for Procrastination](https://www.inc.com/jessica-stillman/the-5-minute-hack-instagram-founder-kevin-systrom-uses-to-beat-procrastination.html)
+
+- "If you don't want to do something, make a deal with yourself to do at least five minutes of it. After five minutes, you'll end up doing the whole thing."
+- "Finally, getting started on something, even just briefly, activates a psychological phenomenon known as the Zeigarnik effect, in which it's much harder to get unfinished tasks out of your brain than completed ones."
