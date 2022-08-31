@@ -5,6 +5,7 @@ A place to store information I want to look at later.
 ## Dev
 
 - [Java](dev/java.md)
+- [SQL](dev/sql.md)
 - [Typescript](dev/typescript.md)
 
 ## Dev Setup
@@ -29,13 +30,6 @@ A place to store information I want to look at later.
 - [2020 Reading](reading_notes/2020reading.md)
 - [2021 Reading](reading_notes/2021reading.md)
 - [2022 Reading](reading_notes/2022reading.md)
-
-## SQL
-
-- [Idempotent](sql/idempotent.md)
-- [JDBC](sql/JDBC.md)
-- [Joins](sql/joins.md)
-- [xquery](sql/xquery.md)
 
 ## Other
 
