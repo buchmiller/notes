@@ -111,3 +111,13 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - "If you don't want to do something, make a deal with yourself to do at least five minutes of it. After five minutes, you'll end up doing the whole thing."
 - "Finally, getting started on something, even just briefly, activates a psychological phenomenon known as the Zeigarnik effect, in which it's much harder to get unfinished tasks out of your brain than completed ones."
+
+[Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
+
+- "Here's the only situation in which you should use local storage: when you need to store some publicly available information that is not at all sensitive, doesn't need to be used in a high-performance app, isn't larger than 5MB, and consists of purely string data."
+
+[I am a mediocre developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
+
+- Keep things simple so there is less complexity to keep track of.
+- Use tests, reviews, and other automated checks to reduce errors.
+- "If we want to write good software we need to constantly learn how to do it. There are no short ways or magical tricks. Just learn how to be better every single day."
