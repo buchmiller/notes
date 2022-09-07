@@ -121,3 +121,12 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 - Keep things simple so there is less complexity to keep track of.
 - Use tests, reviews, and other automated checks to reduce errors.
 - "If we want to write good software we need to constantly learn how to do it. There are no short ways or magical tricks. Just learn how to be better every single day."
+
+## September
+
+[How to interrogate unfamiliar code](https://stackoverflow.blog/2022/08/15/how-to-interrogate-unfamiliar-code/)
+
+- "Effective coding requires both context and confidence: you need to understand the environment your code will live in and feel sure your work adds value."
+- Local refactors can improve readability. Unit tests can increase understanding. These changes might also be worth committing.
+- Use the tools provided by the IDE and debugger to learn how the code works.
+- "Programmers who are good at writing code are valuable, but programmers who are good at reading code are arguably even moreso. When there’s a bug in production or a feature urgently needs to be built, the first and most important step is understanding. Reading code is what will get you there."
