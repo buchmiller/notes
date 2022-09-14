@@ -130,3 +130,11 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 - Local refactors can improve readability. Unit tests can increase understanding. These changes might also be worth committing.
 - Use the tools provided by the IDE and debugger to learn how the code works.
 - "Programmers who are good at writing code are valuable, but programmers who are good at reading code are arguably even moreso. When there’s a bug in production or a feature urgently needs to be built, the first and most important step is understanding. Reading code is what will get you there."
+
+[Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
+
+- "Code quality affects the mental state of a programmer, communication within their team, and the incentives attached to their work. Improve your code and you can improve your organizational health and competence as a whole."
+- "Code is not sudoku, with a single correct solution for each problem. There are infinite ways to write any computation task, and some are simpler and more predictable than others."
+- "There is no product or tool that can automatically and definitively rate the quality of a codebase. However, there are heuristics you can use to get a feel for code quality and see where issues may lie."
+- Unit tests encourage quality code, since such code makes writing the tests easier.
+- "Programmers can’t speed up a project by thinking harder or typing faster. When a deadline approaches they generally take the only shortcut available to them, which is reduction of quality. This can be avoided by careful planning and strategizing around deadlines."
