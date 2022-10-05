@@ -138,3 +138,9 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 - "There is no product or tool that can automatically and definitively rate the quality of a codebase. However, there are heuristics you can use to get a feel for code quality and see where issues may lie."
 - Unit tests encourage quality code, since such code makes writing the tests easier.
 - "Programmers can’t speed up a project by thinking harder or typing faster. When a deadline approaches they generally take the only shortcut available to them, which is reduction of quality. This can be avoided by careful planning and strategizing around deadlines."
+
+## October
+
+["This project will only take 2 hours"](https://austinhenley.com/blog/thisprojectwillonlytake.html)
+
+- It can be easy to underestimate a project at first glance. Take some time to think about potential complexities and clarify assumptions.
