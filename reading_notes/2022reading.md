@@ -144,3 +144,7 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 ["This project will only take 2 hours"](https://austinhenley.com/blog/thisprojectwillonlytake.html)
 
 - It can be easy to underestimate a project at first glance. Take some time to think about potential complexities and clarify assumptions.
+
+["From zero to 10 million lines of Kotlin"](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+
+- Lessons learned from shifting Meta's Android code from Java to Kotlin.
