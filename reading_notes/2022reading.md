@@ -148,3 +148,9 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 ["From zero to 10 million lines of Kotlin"](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 
 - Lessons learned from shifting Meta's Android code from Java to Kotlin.
+
+## November
+
+["When life gives you lemons, write better error messages"](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+
+- "A good error message... explains what happened and why, provides reassurance, is empathetic, helps the user fix the issue and gives the user a way out."
