@@ -154,3 +154,8 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 ["When life gives you lemons, write better error messages"](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
 - "A good error message... explains what happened and why, provides reassurance, is empathetic, helps the user fix the issue and gives the user a way out."
+
+["How to become a programmer, or the art of Googling well"](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
+
+- A personal story about feeling inadequate when first entering the workforce as a programmer.
+- "It’s not about what we already know, it’s about how we learn. It’s about the tenacity of sitting in front of a computer and googling until you find the right answer."
