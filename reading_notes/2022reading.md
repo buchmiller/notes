@@ -159,3 +159,10 @@ Links to articles I read in 2022 with a few notes to remind me of the topic.
 
 - A personal story about feeling inadequate when first entering the workforce as a programmer.
 - "It’s not about what we already know, it’s about how we learn. It’s about the tenacity of sitting in front of a computer and googling until you find the right answer."
+
+## December
+
+[How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors)
+
+- "Skill alone doesn’t matter. If no one but yourself knows about your skills, you won’t get any opportunities."
+- "Being your sponsor allows you to take charge of your skill improvement without waiting for opportunities from others."
