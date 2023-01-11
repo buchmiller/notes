@@ -8,3 +8,7 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 
 - "[These ideas] help me reflect on themes in my work, what’s important to me, what I’m learning, and what I’d like to be doing differently."
 - "The tactic is pretty simple! Instead of trying to remember everything you did with your brain, maintain a “brag document” that lists everything so you can refer to it when you get to performance review season!"
+
+[4 steps to transforming developers into security people](https://techbeacon.com/security/4-steps-transforming-developers-security-people)
+
+- "To reach your developers with the message of security requires a four-phase process of application security connection. Open their eyes, fill their brains, task their hands, and embrace the gathering"
