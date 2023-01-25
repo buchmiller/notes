@@ -12,3 +12,9 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [4 steps to transforming developers into security people](https://techbeacon.com/security/4-steps-transforming-developers-security-people)
 
 - "To reach your developers with the message of security requires a four-phase process of application security connection. Open their eyes, fill their brains, task their hands, and embrace the gathering"
+
+[Flaw: Constructor does Real Work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
+
+- If it is difficult to test an object, the contructor might be doing too much.
+- "Think about one fundamental question when writing or reviewing code: How am I going to test this?"
+- "Do not create collaborators in your constructor, but pass them in" (builder, factory, provider, dependency injection, etc.)
