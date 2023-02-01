@@ -18,3 +18,9 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 - If it is difficult to test an object, the contructor might be doing too much.
 - "Think about one fundamental question when writing or reviewing code: How am I going to test this?"
 - "Do not create collaborators in your constructor, but pass them in" (builder, factory, provider, dependency injection, etc.)
+
+## February
+
+[Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
+
+- "The benefits of being fast and efficient at the actual mechanics of programming can have far-reaching benefits besides just the obvious ones of being able to do more work in less time.... All of these things have the goal of freeing up your time and more importantly your mental bandwidth to focus on the algorithms, interactions, abstractions, and business problems instead."
