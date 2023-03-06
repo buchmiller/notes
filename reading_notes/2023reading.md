@@ -24,3 +24,10 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [Habits I've Developed for Fast + Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
 
 - "The benefits of being fast and efficient at the actual mechanics of programming can have far-reaching benefits besides just the obvious ones of being able to do more work in less time.... All of these things have the goal of freeing up your time and more importantly your mental bandwidth to focus on the algorithms, interactions, abstractions, and business problems instead."
+
+## March
+
+[I'm a very slow thinker](https://sive.rs/slow)
+
+- Take your time to think about a question and your answer before responding.
+- "People say that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s a knee-jerk emotional response to something in your past."
