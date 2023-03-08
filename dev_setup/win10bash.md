@@ -20,6 +20,7 @@ To enable bash:
 ## Using bash
 
 > [Do not change Linux files using Windows apps and tools](https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/)
+>
 > 1. DO store files in your Windows filesystem that you want to create/modify using Windows tools AND Linux tools
 > 1. DO NOT create / modify Linux files from Windows apps, tools, scripts or consoles
 
