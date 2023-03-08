@@ -31,3 +31,7 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 
 - Take your time to think about a question and your answer before responding.
 - "People say that your first reaction is the most honest, but I disagree. Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s a knee-jerk emotional response to something in your past."
+
+[Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work)
+
+- "You should try and figure out what expectations your colleagues and managers have of you. And also what you expect of yourself. If you can meet these expectations in fewer hours than you are supposed to work, then you shouldn't just find more to do. Instead you should do something different."
