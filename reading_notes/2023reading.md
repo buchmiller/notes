@@ -35,3 +35,8 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work)
 
 - "You should try and figure out what expectations your colleagues and managers have of you. And also what you expect of yourself. If you can meet these expectations in fewer hours than you are supposed to work, then you shouldn't just find more to do. Instead you should do something different."
+
+[Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
+
+- "It’s my job to take time out of my workday to learn things."
+- Observe and learn from what others are doing.
