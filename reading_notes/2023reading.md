@@ -40,3 +40,11 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 
 - "It’s my job to take time out of my workday to learn things."
 - Observe and learn from what others are doing.
+
+## April
+
+[There Is No Benefit or Incentive for Developers to Create Quality Code on Software Projects](https://itnext.io/there-is-no-benefit-or-incentive-for-developers-to-create-quality-code-on-software-projects-a89aae0f8c35)
+
+- "Software projects prioritize fast creation, not quality, and no developers are incentivized to create quality. The goal of software projects is meet the project deadline not create quality code."
+- "Quality is the responsibility of the culture of the team and the senior members of the development team."
+- "Standards ensure quality continues when developers leave and join. This needs to be done because there are no benefits to creating quality code and projects don’t measure quality, they measure creation."
