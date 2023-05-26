@@ -48,3 +48,9 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 - "Software projects prioritize fast creation, not quality, and no developers are incentivized to create quality. The goal of software projects is meet the project deadline not create quality code."
 - "Quality is the responsibility of the culture of the team and the senior members of the development team."
 - "Standards ensure quality continues when developers leave and join. This needs to be done because there are no benefits to creating quality code and projects don’t measure quality, they measure creation."
+
+## May
+
+[How to find focus](https://thesephist.com/posts/focus/)
+
+- "Focus isn't just stubbornly saying ‘I'm going to say no to more things,’ it's studying all the options you have until you can say with conviction, ‘this is the right one for me.’"
