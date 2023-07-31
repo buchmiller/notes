@@ -54,3 +54,9 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [How to find focus](https://thesephist.com/posts/focus/)
 
 - "Focus isn't just stubbornly saying ‘I'm going to say no to more things,’ it's studying all the options you have until you can say with conviction, ‘this is the right one for me.’"
+
+## July
+
+[Clever vs Insightful Code](https://www.hillelwayne.com/post/cleverness/)
+
+- Exploiting language or domain specific knowledge can lead to (clever) code that is difficult to maintain; however, insight about the language and domain may be used to better solve a problem.
