@@ -67,3 +67,9 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 
 - "The fundamental role of internal quality is that it lowers the cost of future change. But there is some extra effort required to write good software, which does impose some cost in the short term."
 - "When thinking about internal quality, I stress that we should only approach it as an economic argument. High internal quality reduces the cost of future features, meaning that putting the time into writing good code actually reduces cost."
+
+## September
+
+[The Grug Brained Developer](https://grugbrain.dev/)
+
+- collection of thoughts on software development, presented in a comedic "smol brained" style
