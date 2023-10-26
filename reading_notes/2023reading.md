@@ -73,3 +73,10 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [The Grug Brained Developer](https://grugbrain.dev/)
 
 - collection of thoughts on software development, presented in a comedic "smol brained" style
+
+## October
+
+[Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
+
+- Overengineering can happen when requirements are uncertain or the developer is bored. It increases development and maintenance costs.
+- "It doesn’t matter how perfect your design or implementation is if you never see it working because you go broke before. The worst code on the planet that helps you validate a hypothesis is better than standing still for fear of repeating yourself."
