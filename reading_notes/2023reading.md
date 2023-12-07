@@ -86,3 +86,10 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
 
 - While the software industry has evolved with dynamically-typed languages, non-object-oriented paradigms, open-source software, and microservices, the core principles of SOLID, such as code organization, code visibility, and code modifiability, remain important.
+
+## December
+
+[Career Advice: Be Confidently Uncertain](https://earthly.dev/blog/confidently-uncertain/)
+
+- Being confidently uncertain means acknowledging uncertainty but also having a plan to overcome it.
+- Instead of saying "I don't know," confidently explain the uncertainty and provide context.
