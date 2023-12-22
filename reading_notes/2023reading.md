@@ -93,3 +93,7 @@ Links to articles I read in 2023 with a few notes to remind me of the topic.
 
 - Being confidently uncertain means acknowledging uncertainty but also having a plan to overcome it.
 - Instead of saying "I don't know," confidently explain the uncertainty and provide context.
+
+[Why does Cloudflare use lava lamps to help with encryption?](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/)
+
+- Cloudflare utilizes lava lamps to generate random data for encryption keys, addressing the inherent limitations of computer-generated randomness.
