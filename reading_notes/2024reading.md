@@ -16,3 +16,7 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - "Advancing from junior to senior engineer requires technical expertise, leadership, project ownership, effective communication, collaboration, business domain comprehension, high performance, and innovative thinking."
 - Create a brag document to showcase achievements, technical skills, professional development, and feedback received.
+
+[Maybe Getting Rid of Your QA Team was Bad, Actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
+
+- "It turns out, the “One Weird Trick” to faster software delivery was not “fire your testers”."
