@@ -20,3 +20,9 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [Maybe Getting Rid of Your QA Team was Bad, Actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 
 - "It turns out, the “One Weird Trick” to faster software delivery was not “fire your testers”."
+
+[Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
+
+- Blogging helps clarify and articulate your thinking. Writing forces you to organize and make sense of your thoughts.
+- It's a platform for sharing knowledge and ideas, as well as for practicing writing.
+- "Almost every blog post I write teaches me something new, even if the detail doesn’t end up making it into the published post."
