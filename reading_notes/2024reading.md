@@ -26,3 +26,16 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 - Blogging helps clarify and articulate your thinking. Writing forces you to organize and make sense of your thoughts.
 - It's a platform for sharing knowledge and ideas, as well as for practicing writing.
 - "Almost every blog post I write teaches me something new, even if the detail doesn’t end up making it into the published post."
+
+## March
+
+[What Makes a Good Programmer?](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/)
+
+- Be able to break down complex problems.
+- Try to keep new code consistent with existing code.
+
+[Lessons Learned in Software Development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
+
+- There will always be bugs, have systems in place to quickly identify and fix them.
+- Start small and gradually extend by adding one change at a time.
+- Understand existing code before making changes.
