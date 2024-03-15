@@ -39,3 +39,13 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 - There will always be bugs, have systems in place to quickly identify and fix them.
 - Start small and gradually extend by adding one change at a time.
 - Understand existing code before making changes.
+
+[UX, Then Architecture, Then Tools](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/)
+
+- "Many coders build their systems backwards. They become enamored with the latest whizz-bang framework or charmed by the reportedly speedy performance of the newest database. And they lead their thinking with those choices as they build new features, whether those technologies are appropriate or not."
+- "Using a technology-first design typically means that the user experience (UX) will be left until last. And if you put your users last in your order of priorities, it will unfortunately be very evident in your system’s lack of usability."
+
+[Scrum is dead: Breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
+
+- "Although Scrum may have made more sense when it was being developed in the early '90s, much has changed over the years. ... As our workforce world evolves, our software development methods should evolve, too."
+- "When you write code in a such a way that another developer half a world away can sit down and start working on it immediately, without needing to ask any questions, you're helping improve your team's efficiency."
