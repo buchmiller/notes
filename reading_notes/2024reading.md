@@ -49,3 +49,11 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - "Although Scrum may have made more sense when it was being developed in the early '90s, much has changed over the years. ... As our workforce world evolves, our software development methods should evolve, too."
 - "When you write code in a such a way that another developer half a world away can sit down and start working on it immediately, without needing to ask any questions, you're helping improve your team's efficiency."
+
+[I'm A Developer Not A Compiler](https://www.blobstreaming.org/im-a-developer-not-a-compiler/)
+
+- Interviews should not ask "nano-questions" which are not important for a human to memorize answers for.
+
+[10 Reasons Why Static Site Generators Are Perfect for Modern Web Development](https://gittings.studio/blog/10-reasons-why-static-site-generators-are-perfect-for-modern-web-development/)
+
+- "Static site generators like Eleventy offer numerous advantages that cater to the ever-changing demands of modern web development. From enhanced performance and scalability to simplified maintenance and bolstered security, the benefits of SSGs are undeniable."
