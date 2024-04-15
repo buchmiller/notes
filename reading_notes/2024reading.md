@@ -57,3 +57,12 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [10 Reasons Why Static Site Generators Are Perfect for Modern Web Development](https://gittings.studio/blog/10-reasons-why-static-site-generators-are-perfect-for-modern-web-development/)
 
 - "Static site generators like Eleventy offer numerous advantages that cater to the ever-changing demands of modern web development. From enhanced performance and scalability to simplified maintenance and bolstered security, the benefits of SSGs are undeniable."
+
+## April
+
+[3 software development principles I wish I knew earlier in my career](https://thetshaped.dev/p/3-software-development-principles)
+
+- YAGNI (You Aren't Gonna Need It) - "Don’t add features or functionality to our software that we currently don’t need."
+- KISS (Keep It Simple, Stupid) - "Don’t add unnecessary complexity to our software."
+  - Even though adding layers of abstraction seems to contradict this, it helps hide complexity.
+- DRY (Don't Repeat Yourself) - "Don’t duplicate code or data in our software."
