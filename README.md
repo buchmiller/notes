@@ -4,6 +4,7 @@ A place to store information I want to look at later.
 
 ## Dev
 
+- [Git](dev/git.md)
 - [Java](dev/java.md)
 - [SQL](dev/sql.md)
 - [Typescript](dev/typescript.md)
