@@ -66,3 +66,10 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 - KISS (Keep It Simple, Stupid) - "Don’t add unnecessary complexity to our software."
   - Even though adding layers of abstraction seems to contradict this, it helps hide complexity.
 - DRY (Don't Repeat Yourself) - "Don’t duplicate code or data in our software."
+
+## May
+
+[Changing Your Swing](https://cutlefish.substack.com/p/tbm-288-changing-your-swing)
+
+- Tiger Woods rebuilt his swing multiple times throughout his career, despite being at the top of his game. This illustrates the importance of change, adaptation, and continuous improvement.
+- Performance will initially be reduced, but this prepares for future successes.
