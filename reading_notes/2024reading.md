@@ -73,3 +73,13 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - Tiger Woods rebuilt his swing multiple times throughout his career, despite being at the top of his game. This illustrates the importance of change, adaptation, and continuous improvement.
 - Performance will initially be reduced, but this prepares for future successes.
+
+## June
+
+[Escaping creative downturns](https://world.hey.com/dhh/escaping-creative-downturns-15281997)
+
+- "It can't be eternal sunshine in the productive mind. You need to let weather pass. The grey, wet days of today soak the soil for the sun of tomorrow."
+
+[Programming types and mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)
+
+- "Programming would be an awful endeavor if we were all confined to the same paradigm. Human nature is much too varied to accept such constraint on its creativity."
