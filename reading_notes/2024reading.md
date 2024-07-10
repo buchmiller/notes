@@ -83,3 +83,13 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [Programming types and mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)
 
 - "Programming would be an awful endeavor if we were all confined to the same paradigm. Human nature is much too varied to accept such constraint on its creativity."
+
+## July
+
+[Maybe You're Not Sick of Programming](https://shubhamjain.co/2024/06/27/youre-not-sick-of-programming/?utm_source=tldrwebdev)
+
+- It's more probably that you are burnt out or tired of corporate bureaucracy than that you've completely lost passion for programming itself.
+
+[How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
+
+- "As coding evolves, ChatGPT has not been exposed yet to new problems and solutions. It lacks the critical thinking skills of a human and can only address problems it has previously encountered."
