@@ -93,3 +93,10 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 
 - "As coding evolves, ChatGPT has not been exposed yet to new problems and solutions. It lacks the critical thinking skills of a human and can only address problems it has previously encountered."
+
+[Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
+
+- Estimates are needed for resource allocation, collaboration, and prioritization.
+- The accuracy of estimations can be influenced significantly by the work culture, with supportive environments that encourage continuous learning and teamwork often leading to more accurate predictions.
+- Estimation should include: breaking tasks into manageable units, drawing on past experience and data, employing established estimation techniques, and factoring in uncertainty.
+- Estimation should not be based on: wishful thinking, assumptions of uniformity, ignoring external factors, or fixating on initial estimates. Instead, estimates should always be revisited and refined as projects progress and new information comes to light.
