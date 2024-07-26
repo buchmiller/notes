@@ -100,3 +100,12 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 - The accuracy of estimations can be influenced significantly by the work culture, with supportive environments that encourage continuous learning and teamwork often leading to more accurate predictions.
 - Estimation should include: breaking tasks into manageable units, drawing on past experience and data, employing established estimation techniques, and factoring in uncertainty.
 - Estimation should not be based on: wishful thinking, assumptions of uniformity, ignoring external factors, or fixating on initial estimates. Instead, estimates should always be revisited and refined as projects progress and new information comes to light.
+
+[The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+
+- "Don't get trapped by the sunk cost fallacy. If you find yourself passing parameters and adding conditional paths through shared code, the abstraction is incorrect."
+
+[Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
+
+- "Applying DRY principles too rigidly leads to premature abstractions that make future changes more complex than necessary."
+- "When in doubt, keep behaviors separate until enough common patterns emerge over time that justify the coupling."
