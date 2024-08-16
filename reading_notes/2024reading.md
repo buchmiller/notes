@@ -109,3 +109,14 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - "Applying DRY principles too rigidly leads to premature abstractions that make future changes more complex than necessary."
 - "When in doubt, keep behaviors separate until enough common patterns emerge over time that justify the coupling."
+
+## August
+
+[How to Be a PM That Engineers Don't Hate](https://staysaasy.com/product/2023/03/12/pm-engineers-dont-hate.html)
+
+- PMs should maintain a good relationship with engineers by actively participating in team activities and openly sharing research and decisions.
+
+[How To Be An Engineer That PMs Don't Hate](https://staysaasy.com/engineering/2023/06/18/how-to-be-an-engineer-pms-down-hate.html)
+
+- Engineers should proactively communicate updates and information with the PM.
+- Understand the role of the PM (product manager) - don't make them your QA team or project manager.
