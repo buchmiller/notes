@@ -120,3 +120,16 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - Engineers should proactively communicate updates and information with the PM.
 - Understand the role of the PM (product manager) - don't make them your QA team or project manager.
+
+## September
+
+[Making the tradeoff between speed and quality](https://amivora.substack.com/p/making-the-tradeoff-between-speed)
+
+- Quality includes providing value to the customer - prioritize that work.
+- Shorten the process by breaking up the work, not by cutting corners and skipping steps.
+- "The goal is... for each team to have an intentional conversation about the particular decision they’re making right now."
+
+[Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
+
+- Sometimes it can be useful to have comments explaining why something isn't in the code.
+  - such as a less efficient approach when runtime isn't a concern
