@@ -88,7 +88,7 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 [Maybe You're Not Sick of Programming](https://shubhamjain.co/2024/06/27/youre-not-sick-of-programming/)
 
-- It's more probably that you are burnt out or tired of corporate bureaucracy than that you've completely lost passion for programming itself.
+- It's more probable that you are burnt out or tired of corporate bureaucracy than that you've completely lost passion for programming itself.
 
 [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 
