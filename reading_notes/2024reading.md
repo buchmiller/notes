@@ -86,7 +86,7 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 ## July
 
-[Maybe You're Not Sick of Programming](https://shubhamjain.co/2024/06/27/youre-not-sick-of-programming/?utm_source=tldrwebdev)
+[Maybe You're Not Sick of Programming](https://shubhamjain.co/2024/06/27/youre-not-sick-of-programming/)
 
 - It's more probably that you are burnt out or tired of corporate bureaucracy than that you've completely lost passion for programming itself.
 
