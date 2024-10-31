@@ -133,3 +133,9 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - Sometimes it can be useful to have comments explaining why something isn't in the code.
   - such as a less efficient approach when runtime isn't a concern
+
+## October
+
+[Remaining Relevant Over Four Decades](https://thecodist.com/how-i-stayed-relevant-over-four-decades/)
+
+- "Keep your head up and pay attention to what is new, keep learning new things, look for positions where you can make a difference, always try to find something you can do to make things better, and never settle for a lame job."
