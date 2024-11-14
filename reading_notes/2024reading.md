@@ -139,3 +139,13 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [Remaining Relevant Over Four Decades](https://thecodist.com/how-i-stayed-relevant-over-four-decades/)
 
 - "Keep your head up and pay attention to what is new, keep learning new things, look for positions where you can make a difference, always try to find something you can do to make things better, and never settle for a lame job."
+
+## November
+
+[Software Developer Professional Goals](https://www.tealhq.com/professional-goals/software-developer)
+
+- "By embracing well-defined goals, developers can navigate their career trajectory with precision, drive innovation within their teams, and ascend to new heights of leadership and technical mastery."
+- Types of career goals may include: technical proficiency, project & product management, personal branding & networking, leadership & mentorship, work-life balance & personal development.
+- "[Leadership and mentorship goals] help developers transition from individual contributors to leaders who empower others and drive the success of their teams."
+- "Setting professional goals as a Software Developer is essential for navigating the complexities of technology and staying relevant in a rapidly evolving industry."
+- "As developers progress from entry-level to senior positions, their objectives must adapt to new responsibilities and challenges. It's essential to set goals that not only leverage your current skill set but also push you towards the next stage in your career."
