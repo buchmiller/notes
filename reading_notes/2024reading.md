@@ -149,3 +149,11 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 - "[Leadership and mentorship goals] help developers transition from individual contributors to leaders who empower others and drive the success of their teams."
 - "Setting professional goals as a Software Developer is essential for navigating the complexities of technology and staying relevant in a rapidly evolving industry."
 - "As developers progress from entry-level to senior positions, their objectives must adapt to new responsibilities and challenges. It's essential to set goals that not only leverage your current skill set but also push you towards the next stage in your career."
+
+## December
+
+[The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+
+- "AI tools help experienced developers more than beginners. This seems backward – shouldn't AI democratize coding? The reality is that AI is like having a very eager junior developer on your team. They can write code quickly, but they need constant supervision and correction."
+- AI makes it easy for non-engineers to quickly build up the first 70% of the product, but "the final 30% - the part that makes software production-ready, maintainable, and robust - still requires real engineering knowledge."
+- "The future isn't about AI replacing developers - it's about AI becoming an increasingly capable collaborator that can take initiative while still respecting human guidance and expertise."
