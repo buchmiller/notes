@@ -33,6 +33,7 @@ A place to store information I want to look at later.
 - [2022 Reading](reading_notes/2022reading.md)
 - [2023 Reading](reading_notes/2023reading.md)
 - [2024 Reading](reading_notes/2024reading.md)
+- [2025 Reading](reading_notes/2025reading.md)
 
 ## Other
 
