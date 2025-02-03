@@ -18,3 +18,17 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - Suggestions include minimizing high-dominance interruptions, reducing interruptions during code writing, and measuring for improvement.
 - "Reduce urgent notifications from authoritative figures during critical focus periods, unless urgent. Use scheduled check-ins instead."
 - "Avoid interruptions during code writing, which has the highest stress correlation. This can be achieved using “Do Not Disturb” blocks within calendar and chat, and a culture that respects that time."
+
+## February
+
+[3 Common Reasons Your Manager Will Fail You During Promotions And How To Have A Back Up Plan](https://news.yuezhao.coach/p/promotions-at-senior-levels)
+
+- The common causes for promotion failure are change of manager, last-second reasons, and unclear promotion process.
+- Be sure other layers of management are also included in promotion advocacy.
+- "At the more senior levels, promotions are about relationships as much as they are about performance. Rather than 'what did you accomplish', it becomes also about 'what do others say about you'."
+- "People leading higher visibility work or more cross-team work tend to advance faster in their careers. Say yes to those key company initiatives with high visibility if you want to grow. If you’re not in a role of high visibility, consider what projects or tasks you can take on to increase your visibility and frequency of interaction with senior executives."
+
+[How to write a good design document](https://grantslatton.com/how-to-design-document)
+
+- "The goal of a design document is to convince the reader the design is optimal given the situation."
+- "You should anticipate every objection someone would have and preemptively show why it's invalid, so that the reader never even thinks to bring it up."
