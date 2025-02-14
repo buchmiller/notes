@@ -32,3 +32,7 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "The goal of a design document is to convince the reader the design is optimal given the situation."
 - "You should anticipate every objection someone would have and preemptively show why it's invalid, so that the reader never even thinks to bring it up."
+
+[Goodhart’s Law: How Measuring The Wrong Things Drive Immoral Behaviour](https://coffeeandjunk.com/goodharts-campbells-law/)
+
+- Putting too much focus on a single metric results in people solely focusing on getting that number higher. A set of multiple measurements need to be taken to prevent these unintended consequences.
