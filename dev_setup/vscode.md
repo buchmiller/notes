@@ -16,15 +16,15 @@
 - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
-  - `Ctrl+K Ctrl+S` to open keyboard shortcuts. Change these three hotkeys to the following:
-  
-    | | |
-    | --- | --- |
-    | Colonize and Hold Position | `Ctrl+;` |
-    | Colonize and Jump to End | (just delete this one for now) |
-    | Colonize and Jump to Newline | `Ctrl+Shift+;` |
+    - `Ctrl+K Ctrl+S` to open keyboard shortcuts. Change these three hotkeys to the following:
+
+        | | |
+        | --- | --- |
+        | Colonize and Hold Position | `Ctrl+;` |
+        | Colonize and Jump to End | (just delete this one for now) |
+        | Colonize and Jump to Newline | `Ctrl+Shift+;` |
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-  - [Chrome debugging with Angular CLI](https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI)
+    - [Chrome debugging with Angular CLI](https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)

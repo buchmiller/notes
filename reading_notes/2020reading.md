@@ -91,10 +91,10 @@ Links to articles I read in 2020 with a few notes to remind me of the topic.
 [Why Scaling Agile Doesn't Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg) (video)
 
 - focus on value, not cost
-  - estimated cost is worthless compared to finding out if people will actually use the software
-  - quickly deliver the things that provide the most value (other requirements can be delayed)
+    - estimated cost is worthless compared to finding out if people will actually use the software
+    - quickly deliver the things that provide the most value (other requirements can be delayed)
 - small feedback loops to validate assumptions
-  - you can get value from software before you finish building it
+    - you can get value from software before you finish building it
 
 ## April
 

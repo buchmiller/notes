@@ -64,7 +64,7 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 
 - YAGNI (You Aren't Gonna Need It) - "Don’t add features or functionality to our software that we currently don’t need."
 - KISS (Keep It Simple, Stupid) - "Don’t add unnecessary complexity to our software."
-  - Even though adding layers of abstraction seems to contradict this, it helps hide complexity.
+    - Even though adding layers of abstraction seems to contradict this, it helps hide complexity.
 - DRY (Don't Repeat Yourself) - "Don’t duplicate code or data in our software."
 
 ## May
@@ -132,7 +132,7 @@ Links to articles I read in 2024 with a few notes to remind me of the topic.
 [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 
 - Sometimes it can be useful to have comments explaining why something isn't in the code.
-  - such as a less efficient approach when runtime isn't a concern
+    - such as a less efficient approach when runtime isn't a concern
 
 ## October
 
