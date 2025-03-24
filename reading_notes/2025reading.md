@@ -36,3 +36,15 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Goodhart’s Law: How Measuring The Wrong Things Drive Immoral Behaviour](https://coffeeandjunk.com/goodharts-campbells-law/)
 
 - Putting too much focus on a single metric results in people solely focusing on getting that number higher. A set of multiple measurements need to be taken to prevent these unintended consequences.
+
+## March
+
+[Only Solve One New Problem At A Time](https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm)
+
+- Focus on one problem at a time. Solving multiple problems simultaneously often leads to complications and setbacks.
+- Incremental integration allows for clearer project timelines, stakeholder communication, and promotes creative solutions, ultimately yielding better results by constraining thought processes and methods.
+
+[Ask for no, don’t ask for yes](https://www.mooreds.com/wordpress/archives/3518)
+
+- Instead of saying "Can I work on X to help with problem Y?" say "I'm going to work on X to solve Y. I'll start this on Wednesday, unless you say otherwise."
+- "Pursue this approach for problems you feel are in the scope of your role but that you want to inform the boss about. It’s great when you want to offer a chance for feedback, but you are confident enough in the course of action that you don’t need feedback."
