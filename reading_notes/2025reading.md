@@ -48,3 +48,13 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - Instead of saying "Can I work on X to help with problem Y?" say "I'm going to work on X to solve Y. I'll start this on Wednesday, unless you say otherwise."
 - "Pursue this approach for problems you feel are in the scope of your role but that you want to inform the boss about. It’s great when you want to offer a chance for feedback, but you are confident enough in the course of action that you don’t need feedback."
+
+[Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
+
+- Normal collections are processed as a whole for each operation; sequences perform all operations on one item at a time.
+
+[When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
+
+- Collections work well for collecting items and stateful operations (sorting, distinct).
+- Sequences are good for `.forEach()` type of operations that are stateless. They can also generate values as they are requested.
+- Java streams can run in parallel while Kotlin sequences cannot.
