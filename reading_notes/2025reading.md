@@ -58,3 +58,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - Collections work well for collecting items and stateful operations (sorting, distinct).
 - Sequences are good for `.forEach()` type of operations that are stateless. They can also generate values as they are requested.
 - Java streams can run in parallel while Kotlin sequences cannot.
+
+## April
+
+[Are You Coachable?](https://novus.global/are-you-coachable/)
+
+- Being coachable is about actively seeking out coaching - not just being open to being coached. "For once you redefine the bulls-eye of coachability as actively seeking out coaching, it creates a culture where everyone is desperate to grow and is learning to grow through utilizing the expertise, wisdom, and skills of others."
