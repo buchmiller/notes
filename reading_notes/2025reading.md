@@ -64,3 +64,7 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Are You Coachable?](https://novus.global/are-you-coachable/)
 
 - Being coachable is about actively seeking out coaching - not just being open to being coached. "For once you redefine the bulls-eye of coachability as actively seeking out coaching, it creates a culture where everyone is desperate to grow and is learning to grow through utilizing the expertise, wisdom, and skills of others."
+
+[Say no to abstract code](https://swizec.com/blog/say-no-to-abstract-code/)
+
+- "Keep related code close together to reduce context boundaries and to limit the amount of relevant detail so it fits in your working memory."
