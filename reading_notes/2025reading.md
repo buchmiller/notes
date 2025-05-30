@@ -68,3 +68,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Say no to abstract code](https://swizec.com/blog/say-no-to-abstract-code/)
 
 - "Keep related code close together to reduce context boundaries and to limit the amount of relevant detail so it fits in your working memory."
+
+## May
+
+[Batching Your Meetings Saves You Hours Every Week — Here’s How](https://knowtworthy.medium.com/batching-your-meetings-saves-you-hours-every-week-heres-how-3798da6ccb02)
+
+- Constantly switching between meetings and deep work lowers productivity. Try to rework your calendar to have large stretches of time to focus on deep work.
