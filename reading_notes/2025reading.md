@@ -74,3 +74,12 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Batching Your Meetings Saves You Hours Every Week — Here’s How](https://knowtworthy.medium.com/batching-your-meetings-saves-you-hours-every-week-heres-how-3798da6ccb02)
 
 - Constantly switching between meetings and deep work lowers productivity. Try to rework your calendar to have large stretches of time to focus on deep work.
+
+## June
+
+[My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
+
+- "You’ve always been responsible for what you merge to main... whether or not you use an LLM."
+- "Reading other people’s code is part of the job. If you can’t metabolize the boring, repetitive code an LLM generates: skills issue! How are you handling the chaos human developers turn out on a deadline?"
+- "Part of being a senior developer is making less-able coders productive, be they fleshly or algebraic."
+- "If truly mediocre code is all we ever get from LLMs, that’s still huge. It’s that much less mediocre code humans have to write."
