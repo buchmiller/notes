@@ -83,3 +83,10 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "Reading other people’s code is part of the job. If you can’t metabolize the boring, repetitive code an LLM generates: skills issue! How are you handling the chaos human developers turn out on a deadline?"
 - "Part of being a senior developer is making less-able coders productive, be they fleshly or algebraic."
 - "If truly mediocre code is all we ever get from LLMs, that’s still huge. It’s that much less mediocre code humans have to write."
+
+## July
+
+[?](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
+
+- "The real breakthrough came when I stopped thinking of AI as a code generator and started treating it as a pairing partner with complementary skills."
+- AI Coding agents allow us to meaningfully contribute to projects with languages we are less familiar with.
