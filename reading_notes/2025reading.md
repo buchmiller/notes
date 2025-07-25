@@ -86,7 +86,7 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 ## July
 
-[?](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
+[AI Coding Agents Are Removing Programming Language Barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
 
 - "The real breakthrough came when I stopped thinking of AI as a code generator and started treating it as a pairing partner with complementary skills."
 - AI Coding agents allow us to meaningfully contribute to projects with languages we are less familiar with.
