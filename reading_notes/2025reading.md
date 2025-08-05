@@ -90,3 +90,23 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "The real breakthrough came when I stopped thinking of AI as a code generator and started treating it as a pairing partner with complementary skills."
 - AI Coding agents allow us to meaningfully contribute to projects with languages we are less familiar with.
+
+## August
+
+[I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+
+- "I don’t want to know how you wrote this. I just want to know that you care about what comes out of the model. This is code you wouldn’t have produced a couple of years ago."
+- "Write better prompts. Give better descriptions. Tell the LLM what library to use. Give it examples to follow. Write smaller files. There are no new principles - follow the ones that already exist."
+- "Don’t leave a codebase’s maintainability to the weights of a model."
+
+[Vibe code is legacy code](https://blog.val.town/vibe-code)
+
+- "When you vibe code, you are incurring tech debt as fast as the LLM can spit it out. Which is why vibe coding is perfect for prototypes and throwaway projects: It's only legacy code if you have to maintain it!"
+- "Vibe coding is on a spectrum of how much you understand the code. The more you understand, the less you are vibing."
+
+[Live coding sucks](https://hadid.dev/posts/living-coding/)
+
+- "When you’re placed in a high-stakes, time-pressured situation, like live coding, your brain reacts exactly like it would to any other threat."
+- "For some people, especially those with even mild performance anxiety, it becomes nearly impossible to think clearly."
+- "I like to think of live coding as a proxy for performance under stress."
+- "The engineer who froze during a 30-minute LeetCode exercise might be the same person who quietly ships flawless code, writes excellent docs, and debugs complex systems. You’re not rejecting a bad engineer, you’re rejecting someone who doesn’t perform well while being watched. That’s not a skill most jobs require."
