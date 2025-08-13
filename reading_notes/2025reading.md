@@ -110,3 +110,7 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "For some people, especially those with even mild performance anxiety, it becomes nearly impossible to think clearly."
 - "I like to think of live coding as a proxy for performance under stress."
 - "The engineer who froze during a 30-minute LeetCode exercise might be the same person who quietly ships flawless code, writes excellent docs, and debugs complex systems. You’re not rejecting a bad engineer, you’re rejecting someone who doesn’t perform well while being watched. That’s not a skill most jobs require."
+
+[This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
+
+- "If the AI search result tells you everything you need, why would you ever visit the actual website? Well, I want you to visit my website."
