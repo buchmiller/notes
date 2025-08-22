@@ -114,3 +114,8 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [This website is for humans](https://localghost.dev/blog/this-website-is-for-humans/)
 
 - "If the AI search result tells you everything you need, why would you ever visit the actual website? Well, I want you to visit my website."
+
+[Do things that don’t scale, and then don’t scale](https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156)
+
+- "See a need that matters to you. Build the smallest, simplest thing that solves it. Resist the urge to make it bigger. Enjoy it."
+- "AI tools make it cheap to create software for an audience of one — and sometimes, that’s the best possible audience."
