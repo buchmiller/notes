@@ -119,3 +119,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "See a need that matters to you. Build the smallest, simplest thing that solves it. Resist the urge to make it bigger. Enjoy it."
 - "AI tools make it cheap to create software for an audience of one — and sometimes, that’s the best possible audience."
+
+## September
+
+[You should be rewriting your prompts](https://maxleiter.com/blog/rewrite-your-prompts)
+
+- "Models aren't perfectly interchangeable. Prompts overfit to models the same way models overfit to data. If you're switching models, rewrite your prompts."
