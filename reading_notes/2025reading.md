@@ -125,3 +125,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [You should be rewriting your prompts](https://maxleiter.com/blog/rewrite-your-prompts)
 
 - "Models aren't perfectly interchangeable. Prompts overfit to models the same way models overfit to data. If you're switching models, rewrite your prompts."
+
+[The Creator Advantage](https://anthonybatt.com/the-creator-advantage/)
+
+- "A creator, in the sense that matters for your career security, is someone who’s learned to capture people’s attention and bring them back over and over."
+- "An audience is... people who choose to follow your work because they trust you. They come back without you having to re-acquire them. They engage with your content and each other. They trust your perspective enough to act on your recommendations."
+- "None of these skills require youth or expensive equipment or technical expertise. They require something much rarer: the courage to share your ideas in public and the persistence to keep going when it feels like nobody’s listening."
