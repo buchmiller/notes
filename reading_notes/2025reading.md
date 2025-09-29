@@ -131,3 +131,8 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "A creator, in the sense that matters for your career security, is someone who’s learned to capture people’s attention and bring them back over and over."
 - "An audience is... people who choose to follow your work because they trust you. They come back without you having to re-acquire them. They engage with your content and each other. They trust your perspective enough to act on your recommendations."
 - "None of these skills require youth or expensive equipment or technical expertise. They require something much rarer: the courage to share your ideas in public and the persistence to keep going when it feels like nobody’s listening."
+
+[Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
+
+- Many companies have an outdated hiring process by "optimizing for skills that matter less while ignoring the skills that actually determine success on the job."
+- "I believe most companies are making a huge mistake by avoiding juniors entirely. They're missing out on AI-native engineers who can learn quickly, adapt to new tools, and grow into really exceptional senior engineers quite fast."
