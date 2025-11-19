@@ -136,3 +136,10 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - Many companies have an outdated hiring process by "optimizing for skills that matter less while ignoring the skills that actually determine success on the job."
 - "I believe most companies are making a huge mistake by avoiding juniors entirely. They're missing out on AI-native engineers who can learn quickly, adapt to new tools, and grow into really exceptional senior engineers quite fast."
+
+## November
+
+[DORA Metrics: We’ve Been Using Them Wrong](https://devinterrupted.substack.com/p/dora-metrics-weve-been-using-them-00c)
+
+- "Measuring DORA metrics do not, on their own, lead to improvement or better business outcomes."
+- "DORA metrics are leading indicators of planning accuracy and predictability, but they are lagging indicators of efficiency and quality."
