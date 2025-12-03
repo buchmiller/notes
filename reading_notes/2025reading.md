@@ -143,3 +143,11 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "Measuring DORA metrics do not, on their own, lead to improvement or better business outcomes."
 - "DORA metrics are leading indicators of planning accuracy and predictability, but they are lagging indicators of efficiency and quality."
+
+## December
+
+[My weekly tech industry intake routine as a Staff Engineer](https://read.highgrowthengineer.com/p/my-weekly-tech-industry-intake-routine)
+
+- "You should know what the major trends are happening within your domain, what’s coming out that’s new, and then form an opinion on whether to incorporate those into your work."
+- "Keeping up with the industry makes you more effective at your job and is a great, more casual way to keep growing."
+- Subscribe to newletters in your domain. Once a week, filter through the emails for articles that seem interesting/relevant. Read each article. Save for reference or create an action item to incorporate the learnings.
