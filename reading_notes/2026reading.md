@@ -17,3 +17,12 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Refactoring -- Not on the backlog!](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 
 - Has fun graphics on how it can often be more helpful to refactor code as part of feature development rather than as dedicated tasks.
+
+## February
+
+[Being “Just a Developer” Isn’t Enough Anymore](https://saasykit.com/blog/being-just-a-developer-isnt-enough-anymore)
+
+- "So how do you stay valuable? You don’t stop being a developer. You stop being only a developer."
+- "You don’t need to be an expert at everything—but you should no longer be blind outside your lane."
+- "Success... requires the ability to see the whole board, to stop viewing code as the end product and start seeing it as one tool in a larger kit used to solve a business problem."
+- "AI can write the code. But it can’t navigate people, trade-offs, or the chaos of real users. The more you step beyond your keyboard and take ownership of the whole picture, the more indispensable you become, and the harder it is to replace you."
