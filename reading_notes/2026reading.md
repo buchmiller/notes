@@ -26,3 +26,10 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "You don’t need to be an expert at everything—but you should no longer be blind outside your lane."
 - "Success... requires the ability to see the whole board, to stop viewing code as the end product and start seeing it as one tool in a larger kit used to solve a business problem."
 - "AI can write the code. But it can’t navigate people, trade-offs, or the chaos of real users. The more you step beyond your keyboard and take ownership of the whole picture, the more indispensable you become, and the harder it is to replace you."
+
+[Build something silly](https://www.antonsten.com/articles/build-something-silly/)
+
+- Create software that is tailored to your exact needs. It doesn't need to be what can sell to thousands of people.
+- "That mental shift — from consumer to builder — is what I think people should be practicing right now. And the only way to develop it is to start small. Build something silly."
+- "The most important skills for surviving and flourishing in the 21st century are not specific skills. Instead, the really important skill is how to master new skills again and again throughout your life." - Yuval Noah Harari
+- "Building something silly is how you practice that. Not because the tool matters, but because the act of building rewires how you think. You stop being a passive consumer of software and start being someone who shapes their own tools. That’s adaptability in action. So build something. It doesn’t have to be good. It doesn’t have to be useful to anyone but you. Just build it."
