@@ -33,3 +33,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "That mental shift — from consumer to builder — is what I think people should be practicing right now. And the only way to develop it is to start small. Build something silly."
 - "The most important skills for surviving and flourishing in the 21st century are not specific skills. Instead, the really important skill is how to master new skills again and again throughout your life." - Yuval Noah Harari
 - "Building something silly is how you practice that. Not because the tool matters, but because the act of building rewires how you think. You stop being a passive consumer of software and start being someone who shapes their own tools. That’s adaptability in action. So build something. It doesn’t have to be good. It doesn’t have to be useful to anyone but you. Just build it."
+
+## March
+
+[AI Agent vs Agentic AI: Understand The Actual Difference](https://medium.com/@speaktoharisudhan/ai-agent-vs-agentic-ai-understand-the-actual-difference-4580a4b01dd4)
+
+- "AI Agents and Agentic AI represent two distinct approaches to artificial intelligence, each with unique strengths and applications. AI Agents are task-specific, rule-driven tools ideal for automating repetitive processes, while Agentic AI offers advanced autonomy, adaptability, and the ability to handle complex, dynamic tasks."
