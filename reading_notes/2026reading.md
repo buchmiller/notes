@@ -39,3 +39,16 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [AI Agent vs Agentic AI: Understand The Actual Difference](https://medium.com/@speaktoharisudhan/ai-agent-vs-agentic-ai-understand-the-actual-difference-4580a4b01dd4)
 
 - "AI Agents and Agentic AI represent two distinct approaches to artificial intelligence, each with unique strengths and applications. AI Agents are task-specific, rule-driven tools ideal for automating repetitive processes, while Agentic AI offers advanced autonomy, adaptability, and the ability to handle complex, dynamic tasks."
+
+[Things You Think Are Helping Your Career But Are Actually Hurting It](https://alifeengineered.substack.com/p/things-you-think-are-helping-your)
+
+- Instead of being the go-to "Fixer" on the team, find ways to show impact from things you fix. Show how your fix will prevent the problem from reocurring. Uplevel the team to be able to handle the fire.
+- "Every yes to something small is a deprioritization of something big." Give most of your energy to things you care about and that will impact promotion/performance reviews.
+- Silently solving problems is invisible to others. Be sure your manager hears about the hard work you've done that they didn't know about.
+- Being "too easy to manage" isn’t professionalism but passivity that makes you low-maintenance, easy to overlook, and likely to stagnate—especially if you’re a high performer who quietly absorbs bad decisions and never negotiates. Create “productive friction” by sharing opinions, raising concerns, stating what you want, and bringing one small pushback or idea to your next 1:1 so your manager engages with you and invests in your growth.
+- "The fix is simple: Stop trying to make everyone else’s life easier, and start making your own career harder to ignore."
+
+[10x is the new floor](https://writing.nikunjk.com/p/10x-is-the-new-floor)
+
+- "AI has raised the floor. A human paired with AI can already perform at the 10x level. The mythical 10x didn’t get better. The floor just rose to meet them."
+- "The people who have truly embraced AI have figured out their job is to be a conductor. Hold all the context, the feeling, the texture in their head while using a fleet of agents to handle the execution."
