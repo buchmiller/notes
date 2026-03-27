@@ -52,3 +52,8 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "AI has raised the floor. A human paired with AI can already perform at the 10x level. The mythical 10x didn’t get better. The floor just rose to meet them."
 - "The people who have truly embraced AI have figured out their job is to be a conductor. Hold all the context, the feeling, the texture in their head while using a fleet of agents to handle the execution."
+
+[Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
+
+- "If you want more, your manager needs to hear that from you. Because if you don’t say something, their default assumption will be that you’re content."
+- "Most people are... passengers in their own careers. They think career growth is something that happens to good workers over time, like a reward for showing up and doing your job well. It can work that way. It just takes much longer."
