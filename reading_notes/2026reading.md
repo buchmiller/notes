@@ -57,3 +57,10 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "If you want more, your manager needs to hear that from you. Because if you don’t say something, their default assumption will be that you’re content."
 - "Most people are... passengers in their own careers. They think career growth is something that happens to good workers over time, like a reward for showing up and doing your job well. It can work that way. It just takes much longer."
+
+## April
+
+[Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
+
+- "A model is over-editing if its output is functionally correct but structurally diverges from the original code more than the minimal fix requires."
+- "A simple instruction to preserve the original code leads to much more faithful edits, which is an encouraging sign that when models... over-edit, they can still be steered toward higher-quality code."
