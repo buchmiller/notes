@@ -64,3 +64,8 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "A model is over-editing if its output is functionally correct but structurally diverges from the original code more than the minimal fix requires."
 - "A simple instruction to preserve the original code leads to much more faithful edits, which is an encouraging sign that when models... over-edit, they can still be steered toward higher-quality code."
+
+[It's OK to abandon your side-project.](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+
+- "The success of a side-project doesn't need to be defined by a beautiful, shipped product. We work in a practical medium and any build experience, good, bad or abandoned, is still valid experience."
+- "If you find that shipping your project is starting to cause you stress or, worse yet, leaving you feeling burned out, then don't hesitate to cut it loose. Chances are that, if you look close enough, it has already brought you plenty of value."
