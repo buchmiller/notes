@@ -69,3 +69,10 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "The success of a side-project doesn't need to be defined by a beautiful, shipped product. We work in a practical medium and any build experience, good, bad or abandoned, is still valid experience."
 - "If you find that shipping your project is starting to cause you stress or, worse yet, leaving you feeling burned out, then don't hesitate to cut it loose. Chances are that, if you look close enough, it has already brought you plenty of value."
+
+## May
+
+[IC work is the new career flex](https://www.elenaverna.com/p/ic-work-is-the-new-career-flex)
+
+- "When you can build and test something in hours… It’s now becoming cheaper to just try something than to debate it."
+- "When an individual can run a project end-to-end, they don’t need as much coordination. This means you don’t need as many managers. Which means that your comp budget naturally flows to the people having the biggest impact, which are now ICs. Which means that you can keep your best people in the roles that they’re really good at."
