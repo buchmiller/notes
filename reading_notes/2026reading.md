@@ -76,3 +76,8 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - "When you can build and test something in hours… It’s now becoming cheaper to just try something than to debate it."
 - "When an individual can run a project end-to-end, they don’t need as much coordination. This means you don’t need as many managers. Which means that your comp budget naturally flows to the people having the biggest impact, which are now ICs. Which means that you can keep your best people in the roles that they’re really good at."
+
+[Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+
+- AI doesn't have to only be used to quickly push out sloppy code. "LLMs are very flexible. And you can use them just as effectively to write high-quality code more slowly."
+- Use LLMs to elevate/empower the type of programming you were already doing.
