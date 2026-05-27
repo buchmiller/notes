@@ -81,3 +81,11 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 
 - AI doesn't have to only be used to quickly push out sloppy code. "LLMs are very flexible. And you can use them just as effectively to write high-quality code more slowly."
 - Use LLMs to elevate/empower the type of programming you were already doing.
+
+[I haven’t finished a single project 100%](https://orchidfiles.com/i-havent-finished-a-single-project-100/)
+
+- "Writing down a task doesn’t mean I have to do it. It just frees up mental space. When I write something down, I don’t spend time assigning priorities or deadlines. An idea comes up, I save it to a file right away, and I’m done thinking about it."
+
+[I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+
+- "I’m tired of talking to AI. I want to talk to real people. But even when I talk to people, they forward my questions to AI and send me the AI’s answer."
