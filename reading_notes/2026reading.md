@@ -89,3 +89,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 - "I’m tired of talking to AI. I want to talk to real people. But even when I talk to people, they forward my questions to AI and send me the AI’s answer."
+
+[Postgres is All You Need for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
+
+- The idea of durable workflows is that "as your program runs, you regularly checkpoint its progress to a database. That way, if your program ever crashes or fails, you can reload from the last checkpoint to recover it from its last completed step."
+- "If durable workflows are about databases, then there’s no reason to have a separate orchestrator server. Instead, it’s simpler and more efficient to use the database itself as an orchestrator."
+- "The decades of engineering work and research that have gone into operating Postgres at scale can translate directly to operating durable workflows."
