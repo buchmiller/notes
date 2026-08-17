@@ -95,3 +95,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - The idea of durable workflows is that "as your program runs, you regularly checkpoint its progress to a database. That way, if your program ever crashes or fails, you can reload from the last checkpoint to recover it from its last completed step."
 - "If durable workflows are about databases, then there’s no reason to have a separate orchestrator server. Instead, it’s simpler and more efficient to use the database itself as an orchestrator."
 - "The decades of engineering work and research that have gone into operating Postgres at scale can translate directly to operating durable workflows."
+
+## August
+
+[Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+
+- "By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words."
