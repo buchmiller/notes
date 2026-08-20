@@ -101,3 +101,11 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 
 - "By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words."
+
+[I Am Morally Opposed to Updating My CLAUDE.md](https://alex-jacobs.com/posts/claudemd/)
+
+- "These rules get written at peak frustration and then live forever."
+
+[Don't paste the AI, please](https://dontpastetheai.com/)
+
+- This is similar to nohello.com as a brief on how to give helpful responses even when utilizing AI.
