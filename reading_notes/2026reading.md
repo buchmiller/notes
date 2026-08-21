@@ -109,3 +109,7 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [Don't paste the AI, please](https://dontpastetheai.com/)
 
 - This is similar to nohello.com as a brief on how to give helpful responses even when utilizing AI.
+
+[I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
+
+- Searches now prioritize relevance over literal matching. This might be helpful when just browsing, but it gets in the way when you know exactly what you want.
