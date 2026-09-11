@@ -113,3 +113,11 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
 
 - Searches now prioritize relevance over literal matching. This might be helpful when just browsing, but it gets in the way when you know exactly what you want.
+
+## September
+
+[To write non-fiction, draw the trunk, then the rest of the tree](https://devz.cl/posts/how-to-write/)
+
+- "The trunk is the theme you will be writing about. This helps you ground your ideas and not get lost in the weeds. Reader attention is key, and if you don't keep it focused on the theme, readers will either get lost on what you are trying to convey or worse: get bored."
+- The moment you introduce a personal opinion into your writing, you have automatically created a thesis, even if it is only implied beneath the surface of the text.
+- Everything you write moving forward must directly align with your central theme and thesis, cutting out any tangents that do not support the main idea.
