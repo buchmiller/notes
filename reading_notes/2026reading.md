@@ -121,3 +121,9 @@ Links to articles I read in 2025 with a few notes to remind me of the topic.
 - "The trunk is the theme you will be writing about. This helps you ground your ideas and not get lost in the weeds. Reader attention is key, and if you don't keep it focused on the theme, readers will either get lost on what you are trying to convey or worse: get bored."
 - The moment you introduce a personal opinion into your writing, you have automatically created a thesis, even if it is only implied beneath the surface of the text.
 - Everything you write moving forward must directly align with your central theme and thesis, cutting out any tangents that do not support the main idea.
+
+[We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
+
+- "As the cost of software creation falls to zero, the bottleneck moves to the description of the problem."
+- "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use."
+"We are all product engineers now, whether we like it or not, and a lot of us won't."
